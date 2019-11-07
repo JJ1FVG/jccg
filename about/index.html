@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>JCC/JCG Search</title>
+    <!-- Bootstrap CDN-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- main.css -->
+    <link rel="stylesheet" href="../css/main.css">
+    <!-- viewport -->
+    <meta name="viewport" content="initial-scale=1.0,user-scalable=no">
+</head>
+
+<body>
+    <!-- ナビゲーションバー -->
+    <nav class="navbar navbar-light navbar-expand-sm">
+        <a><strong>🗾JCC/JCG Search</strong>　　</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navmenu1" aria-controls="navmenu1" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navmenu1">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link" href="../search/">キーワード検索</a>
+                <a class="nav-item nav-link" href="../map/">地図検索</a>
+                <a class="nav-item nav-link active" href="../about/">このサイトについて</a>
+            </div>
+        </div>
+    </nav>
+    <!-- コンテンツ -->
+    <div id="container">
+        <div class="card">
+            <div class="card-header">このサイトについて</div>
+            <div class="card-body">
+                <p>このサイトは、アマチュア無線において日本国内の市区を表すJCC及び郡を表すJCGを検索するサイトです。</p>
+                <p><a href="https://www.jarl.org/Japanese/A_Shiryo/A-2_jcc-jcg/jcc.htm">JARL 市郡区番号リスト</a>に準拠しています。</p>
+                <p>掲載情報には注意を払っておりますが、表示される情報の正確性は保証しません。当サイトの利用において発生したあらゆる損害等についても、理由の如何を問わず一切責任を負いかねます。</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">更新情報</div>
+            <div class="card-body">
+                <p>2019/10/04 地図検索で廃止済みの項目が表示される不具合があったため、廃止済みの項目を削除しました。</p>
+                <p>2019/7/17  サイトを公開しました。</p>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">推奨環境</div>
+            <div class="card-body">
+                <ul>
+                    <li>Chrome</li>
+                    <li>Firefox</li>
+                    <li>Edge</li>
+                    <li>Safari</li>
+                </ul>
+                <p>※Internet Exprolerでは動きません
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">使用ライブラリ・フレームワーク</div>
+            <div class="card-body">
+                <ul>
+                  <li><a href="https://jquery.com/">jQuery 3.3.1</a></li>
+                  <li><a href="https://jp.vuejs.org/index.html">Vue.js</a></li>
+                  <li><a href="https://getbootstrap.com/">Bootstrap 4.3.1</a></li>
+                  <li><a href="https://popper.js.org/">Popper.js</a></li>
+                  <li><a href="https://github.com/camsong/fetch-jsonp">Fetch JSONP</a></li>
+                  <li><a href="https://github.com/kazuhikoarase/jaconv">日本語文字変換ライブラリ (javascript)</a></li>
+                  <li><a href="https://developer.yahoo.co.jp/webapi/map/openlocalplatform/v1/js/#index2-1">Yahoo! JavaScriptマップAPI</a></li>
+                  <li><a href="https://developer.yahoo.co.jp/webapi/map/openlocalplatform/v1/reversegeocoder.html">Yahoo!リバースジオコーダAPI</a></li>
+
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">製作者</div>
+            <div class="card-body">
+                <ul>
+                    <li>はま</li>
+                    <li>CallSign:JJ1FVG</li>
+                    <li>Twitter:<a href="https://twitter.com/JJ1FVG">@JJ1FVG</a></li>
+                    <li>Email:<a href="mailto:jj1fvg@gmail.com">jj1fvg@gmail.com</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery CDN-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.js CDN-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <!-- Bootstrap CDN-->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+</html>

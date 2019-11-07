@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>JCC/JCG Search</title>
+<style>
+	td{
+		width: 200px;
+	}
+	#content{
+	}
+	#serchBox{
+	}
+</style>
+<!-- Bootstrap CDN-->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+	<div class="container">
+		<nav class="navbar navbar-light mb-2" style="background-color:#e3f2fd;">
+		  <a>🗾JCC/JCG Search</a>
+			<a class="nav-item nav-link" href="../jcc/">JCC検索</a>
+      <a class="nav-item nav-link" href="../jcg/">JCG検索</a>
+      <a class="nav-item nav-link" href="../about/">このサイトについて</a>
+		</nav>
+		<div class="input-group mb-3">
+			<div class="input-group-prepend">
+				<span class="input-group-text" id="serchBoxTitle">🔎</span>
+			</div>
+			<input type="text" class="form-control" name="serchBox" id="serchBox" oninput="doSerch()" placeholder="JCC or 市区名" aria-describedby="serchBoxTitle">
+		</div>
+		<div id="container">
+			<div class="overflow-auto" style= height:480px>
+				<table id="content" class="table-striped" width="100%" table-layout="auto">
+					<thead>
+						<tr><th>JCC</th><th>市名</th><th>廃止日</th></tr>
+					</thead>
+				</table>
+			</div>
+		</div>
+	</div>
+
+	<!--
+				//日本語文字変換ライブラリ (javascript)
+				https://github.com/kazuhikoarase/jaconv
+	-->
+	<script src="../jaconv-master/lib/jaconv.min.js"></script>
+
+	<script>
+		window.onload = () => {
+			let jsonFileName = '../jcg.json';
+			let jccJson = fetchJccJson(jsonFileName);
+		};
+
+		function fetchJccJson(jsonFileName){
+			fetch(jsonFileName).then(function(response){
+				return response.json();
+			}).then(function(json) {
+				showJccTable(json)
+				return jccJson = json;
+			});
+		}
+
+		function doSerch(){
+			let key = document.getElementById('serchBox').value;
+			serchJccFromNo(jccJson, key);
+		};
+
+		function serchJccFromNo(item, key){
+
+			let matchData = item.filter(function(item, index){
+
+				if((item.no).indexOf(key) >= 0) {
+					return true;
+				}
+				else if((item.cityKanji).indexOf(key) >= 0){
+					return true;
+				}
+				else if((item.cityRomaji.toLowerCase()).indexOf(key.toLowerCase()) >= 0){
+					return true;
+				}
+				else if((item.cityRomaji.toLowerCase()).indexOf(jaconv.toHebon(key).toLowerCase()) >= 0){
+					return true;
+				};
+			});
+			serchJccResult(matchData);
+
+		};
+
+		function showJccTable(json){
+			let html = "";
+				for(item of json){
+					html += '<tr><td>' + item.no + '</td><td>' + item.cityKanji + '</td>';
+					if(item.disappearDate != undefined){
+						html += '<td>' + item.disappearDate + '</td></tr>';
+					}
+					else{
+						html += '<td></td></tr>';
+					}
+				}
+				document.querySelector('#content').innerHTML += html;
+		};
+
+		function serchJccResult(data){
+			document.querySelector('#content').innerHTML = "	<tr><th>JCC</th><th>市名</th><th>廃止年</th></tr>";
+			showJccTable(data);
+		};
+	</script>
+	<!-- Bootstrap CDN-->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,6303 @@
+[
+    {
+        "no": "01001",
+        "cityRomaji": "Akan",
+        "cityKanji": "阿寒"
+    },
+    {
+        "no": "01002",
+        "cityRomaji": "Ashoro",
+        "cityKanji": "足寄"
+    },
+    {
+        "no": "01003",
+        "cityRomaji": "Atsukeshi",
+        "cityKanji": "厚岸"
+    },
+
+    {
+        "no": "01005",
+        "cityRomaji": "Abashiri",
+        "cityKanji": "網走"
+    },
+    {
+        "no": "01005",
+        "cityRomaji": "Ozoracho",
+        "cityKanji": "大空町"
+    },
+    {
+        "no": "01005",
+        "cityRomaji": "Bihorochou",
+        "cityKanji": "美幌町"
+    },
+    {
+        "no": "01005",
+        "cityRomaji": "Tubetuchou",
+        "cityKanji": "津別町"
+    },
+    {
+        "no": "01006",
+        "cityRomaji": "Abuta(Shiribeshi)",
+        "cityKanji": "虻田(後志)"
+    },
+    {
+        "no": "01006",
+        "cityRomaji": "Kimobetsucho",
+        "cityKanji": "喜茂別町"
+    },
+    {
+        "no": "01006",
+        "cityRomaji": "Kutchancho",
+        "cityKanji": "倶知安町"
+    },
+    {
+        "no": "01006",
+        "cityRomaji": "Kyogokucho",
+        "cityKanji": "京極町"
+    },
+    {
+        "no": "01006",
+        "cityRomaji": "Makkarimura",
+        "cityKanji": "真狩村"
+    },
+    {
+        "no": "01006",
+        "cityRomaji": "Nisekocho",
+        "cityKanji": "ニセコ町"
+    },
+    {
+        "no": "01006",
+        "cityRomaji": "Rusutsumura",
+        "cityKanji": "留寿都村"
+    },
+    {
+        "no": "01007",
+        "cityRomaji": "Abuta(Iburi)",
+        "cityKanji": "虻田(胆振)"
+    },
+    {
+        "no": "01007",
+        "cityRomaji": "Toyouracho",
+        "cityKanji": "豊浦町"
+    },
+    {
+        "no": "01007",
+        "cityRomaji": "Touyakocho",
+        "cityKanji": "洞爺湖町"
+    },
+    {
+        "no": "01008",
+        "cityRomaji": "Ishikari",
+        "cityKanji": "石狩"
+    },
+    {
+        "no": "01009",
+        "cityRomaji": "Isoya",
+        "cityKanji": "磯谷"
+    },
+    {
+        "no": "01010",
+        "cityRomaji": "Iwanai",
+        "cityKanji": "岩内"
+    },
+    {
+        "no": "01011",
+        "cityRomaji": "Usu",
+        "cityKanji": "有珠"
+    },
+    {
+        "no": "01013",
+        "cityRomaji": "Urakawa",
+        "cityKanji": "浦河"
+    },
+    {
+        "no": "01014",
+        "cityRomaji": "Uryu(Sorachi)",
+        "cityKanji": "雨竜(空知）"
+    },
+    {
+        "no": "01014",
+        "cityRomaji": "Moseushicho",
+        "cityKanji": "妹背牛町"
+    },
+    {
+        "no": "01014",
+        "cityRomaji": "Chippubetsucho",
+        "cityKanji": "秩父別町"
+    },
+    {
+        "no": "01014",
+        "cityRomaji": "Uryucho",
+        "cityKanji": "雨竜町"
+    },
+    {
+        "no": "01014",
+        "cityRomaji": "Hokuryucho",
+        "cityKanji": "北竜町"
+    },
+    {
+        "no": "01014",
+        "cityRomaji": "Numatacho",
+        "cityKanji": "沼田町"
+    },
+    {
+        "no": "01015",
+        "cityRomaji": "Esashi",
+        "cityKanji": "枝幸"
+    },
+    {
+        "no": "01016",
+        "cityRomaji": "Okushiri",
+        "cityKanji": "奥尻"
+    },
+    {
+        "no": "01018",
+        "cityRomaji": "Kasai",
+        "cityKanji": "河西"
+    },
+    {
+        "no": "01019",
+        "cityRomaji": "Kato",
+        "cityKanji": "河東"
+    },
+    {
+        "no": "01020",
+        "cityRomaji": "Kabato",
+        "cityKanji": "樺戸"
+    },
+    {
+        "no": "01021",
+        "cityRomaji": "Kamiiso",
+        "cityKanji": "上磯"
+    },
+    {
+        "no": "01022",
+        "cityRomaji": "Kamikawa(Tokachi)",
+        "cityKanji": "上川(十勝)"
+    },
+    {
+        "no": "01022",
+        "cityRomaji": "Shimizucho",
+        "cityKanji": "清水町"
+    },
+    {
+        "no": "01022",
+        "cityRomaji": "Shintokucho",
+        "cityKanji": "新得町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Kamikawa(Kamikawa)",
+        "cityKanji": "上川(上川)"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Aibetsucho",
+        "cityKanji": "愛別町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Asahicho",
+        "cityKanji": "朝日町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Bieicho",
+        "cityKanji": "美瑛町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Higashikaguracho",
+        "cityKanji": "東神楽町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Higashikawacho",
+        "cityKanji": "東川町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Pippucho",
+        "cityKanji": "比布町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Kamikawacho",
+        "cityKanji": "上川町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Kenbuchicho",
+        "cityKanji": "剣淵町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Shimokawacho",
+        "cityKanji": "下川町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Takasucho",
+        "cityKanji": "鷹栖町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Tomacho",
+        "cityKanji": "当麻町"
+    },
+    {
+        "no": "01023",
+        "cityRomaji": "Wassamucho",
+        "cityKanji": "和寒町"
+    },
+    {
+        "no": "01024",
+        "cityRomaji": "Kameda",
+        "cityKanji": "亀田"
+    },
+    {
+        "no": "01025",
+        "cityRomaji": "Kayabe",
+        "cityKanji": "茅部"
+    },
+    {
+        "no": "01026",
+        "cityRomaji": "Kawakami",
+        "cityKanji": "川上"
+    },
+    {
+        "no": "01027",
+        "cityRomaji": "Kushiro",
+        "cityKanji": "釧路"
+    },
+    {
+        "no": "01028",
+        "cityRomaji": "Kudo",
+        "cityKanji": "久遠"
+    },
+    {
+        "no": "01030",
+        "cityRomaji": "Samani",
+        "cityKanji": "様似"
+    },
+    {
+        "no": "01031",
+        "cityRomaji": "Saru",
+        "cityKanji": "沙流"
+    },
+    {
+        "no": "01033",
+        "cityRomaji": "Shibetsu",
+        "cityKanji": "標津"
+    },
+    {
+        "no": "01034",
+        "cityRomaji": "Shimamaki",
+        "cityKanji": "島牧"
+    },
+    {
+        "no": "01035",
+        "cityRomaji": "Shakotan",
+        "cityKanji": "積丹"
+    },
+    {
+        "no": "01036",
+        "cityRomaji": "Shari",
+        "cityKanji": "斜里"
+    },
+    {
+        "no": "01037",
+        "cityRomaji": "Shiraoi",
+        "cityKanji": "白老"
+    },
+    {
+        "no": "01038",
+        "cityRomaji": "Shiranuka",
+        "cityKanji": "白糠"
+    },
+    {
+        "no": "01039",
+        "cityRomaji": "Suttsu",
+        "cityKanji": "寿都"
+    },
+    {
+        "no": "01040",
+        "cityRomaji": "Setana",
+        "cityKanji": "瀬棚"
+    },
+    {
+        "no": "01041",
+        "cityRomaji": "Soya",
+        "cityKanji": "宗谷"
+    },
+    {
+        "no": "01042",
+        "cityRomaji": "Sorachi(Sorachi)",
+        "cityKanji": "空知(空知)"
+    },
+    {
+        "no": "01042",
+        "cityRomaji": "Kamisunagawacho",
+        "cityKanji": "上砂川町"
+    },
+    {
+        "no": "01042",
+        "cityRomaji": "Naiecho",
+        "cityKanji": "奈井江町"
+    },
+    {
+        "no": "01042",
+        "cityRomaji": "Nanporocho",
+        "cityKanji": "南幌町"
+    },
+    {
+        "no": "01043",
+        "cityRomaji": "Sorachi(Kamikawa)",
+        "cityKanji": "空知(上川)"
+    },
+    {
+        "no": "01043",
+        "cityRomaji": "Kamifuranocho",
+        "cityKanji": "上富良野町"
+    },
+    {
+        "no": "01043",
+        "cityRomaji": "Minamifuranocho",
+        "cityKanji": "南富良野町"
+    },
+    {
+        "no": "01043",
+        "cityRomaji": "Nakafuranocho",
+        "cityKanji": "中富良野町"
+    },
+    {
+        "no": "01045",
+        "cityRomaji": "Teshio(Rumoi)",
+        "cityKanji": "天塩(留萌)"
+    },
+    {
+        "no": "01045",
+        "cityRomaji": "Enbetsucho",
+        "cityKanji": "遠別町"
+    },
+    {
+        "no": "01045",
+        "cityRomaji": "Teshiocho",
+        "cityKanji": "天塩町"
+    },
+    {
+        "no": "01046",
+        "cityRomaji": "Teshio(Soya)",
+        "cityKanji": "天塩(宗谷)"
+    },
+    {
+        "no": "01046",
+        "cityRomaji": "Toyotomicho",
+        "cityKanji": "豊富町"
+    },
+    {
+        "no": "01046",
+        "cityRomaji": "Horonobecho",
+        "cityKanji": "幌延町"
+    },
+    {
+        "no": "01047",
+        "cityRomaji": "Tokachi",
+        "cityKanji": "十勝"
+    },
+    {
+        "no": "01048",
+        "cityRomaji": "Tokoro",
+        "cityKanji": "常呂"
+    },
+    {
+        "no": "01049",
+        "cityRomaji": "Tomamae",
+        "cityKanji": "苫前"
+    },
+    {
+        "no": "01050",
+        "cityRomaji": "Nakagawa(Kamikawa)",
+        "cityKanji": "中川(上川)"
+    },
+    {
+        "no": "01050",
+        "cityRomaji": "Bifukacho",
+        "cityKanji": "美深町"
+    },
+    {
+        "no": "01050",
+        "cityRomaji": "Nakagawacho",
+        "cityKanji": "中川町"
+    },
+    {
+        "no": "01050",
+        "cityRomaji": "Otoinetsupumura",
+        "cityKanji": "音威子府村"
+    },
+    {
+        "no": "01051",
+        "cityRomaji": "Nakagawa(Tokachi)",
+        "cityKanji": "中川(十勝)"
+    },
+    {
+        "no": "01051",
+        "cityRomaji": "Honbetsucho",
+        "cityKanji": "本別町"
+    },
+    {
+        "no": "01051",
+        "cityRomaji": "Ikedacho",
+        "cityKanji": "池田町"
+    },
+    {
+        "no": "01051",
+        "cityRomaji": "Makubetsucho",
+        "cityKanji": "幕別町"
+    },
+    {
+        "no": "01051",
+        "cityRomaji": "Toyokorocho",
+        "cityKanji": "豊頃町"
+    },
+    {
+        "no": "01052",
+        "cityRomaji": "Niikappu",
+        "cityKanji": "新冠"
+    },
+    {
+        "no": "01053",
+        "cityRomaji": "Nishi",
+        "cityKanji": "爾志"
+    },
+    {
+        "no": "01055",
+        "cityRomaji": "Notsuke",
+        "cityKanji": "野付"
+    },
+    {
+        "no": "01059",
+        "cityRomaji": "Hiyama",
+        "cityKanji": "檜山"
+    },
+    {
+        "no": "01060",
+        "cityRomaji": "Hiroo",
+        "cityKanji": "広尾"
+    },
+    {
+        "no": "01062",
+        "cityRomaji": "Furuu",
+        "cityKanji": "古宇"
+    },
+    {
+        "no": "01063",
+        "cityRomaji": "Furubira",
+        "cityKanji": "古平"
+    },
+    {
+        "no": "01064",
+        "cityRomaji": "Horoizumi",
+        "cityKanji": "幌泉"
+    },
+    {
+        "no": "01066",
+        "cityRomaji": "Mashike",
+        "cityKanji": "増毛"
+    },
+    {
+        "no": "01067",
+        "cityRomaji": "Matsumae",
+        "cityKanji": "松前"
+    },
+    {
+        "no": "01069",
+        "cityRomaji": "Menashi",
+        "cityKanji": "目梨"
+    },
+    {
+        "no": "01070",
+        "cityRomaji": "Mombetsu",
+        "cityKanji": "紋別"
+    },
+    {
+        "no": "01071",
+        "cityRomaji": "Yamakoshi",
+        "cityKanji": "山越"
+    },
+    {
+        "no": "01072",
+        "cityRomaji": "Yubari",
+        "cityKanji": "夕張"
+    },
+    {
+        "no": "01073",
+        "cityRomaji": "Yufutsu(Iburi)",
+        "cityKanji": "勇払(胆振)"
+    },
+    {
+        "no": "01073",
+        "cityRomaji": "Atsumacho",
+        "cityKanji": "厚真町"
+    },
+    {
+        "no": "01073",
+        "cityRomaji": "Abiracho",
+        "cityKanji": "安平町"
+    },
+    {
+        "no": "01073",
+        "cityRomaji": "Mukawacho",
+        "cityKanji": "むかわ町"
+    },
+    {
+        "no": "01074",
+        "cityRomaji": "Yufutsu(Kamikawa)",
+        "cityKanji": "勇払(上川)"
+    },
+    {
+        "no": "01074",
+        "cityRomaji": "Shimukappumura",
+        "cityKanji": "占冠村"
+    },
+    {
+        "no": "01075",
+        "cityRomaji": "Yoichi",
+        "cityKanji": "余市"
+    },
+    {
+        "no": "01076",
+        "cityRomaji": "Rishiri",
+        "cityKanji": "利尻"
+    },
+    {
+        "no": "01077",
+        "cityRomaji": "Rumoi",
+        "cityKanji": "留萌"
+    },
+    {
+        "no": "01078",
+        "cityRomaji": "Rebun",
+        "cityKanji": "礼文"
+    },
+    {
+        "no": "01079",
+        "cityRomaji": "Futami",
+        "cityKanji": "二海"
+    },
+    {
+        "no": "01080",
+        "cityRomaji": "Hidaka",
+        "cityKanji": "日高"
+    },
+    {
+        "no": "01081",
+        "cityRomaji": "Uryu(Kamikawa)",
+        "cityKanji": "雨竜(上川）"
+    },
+    {
+        "no": "01081",
+        "cityRomaji": "Horokanaicho",
+        "cityKanji": "幌加内町"
+    },
+    {
+        "no": "02001",
+        "cityRomaji": "Kamikita",
+        "cityKanji": "上北"
+    },
+    {
+        "no": "02002",
+        "cityRomaji": "Kitatsugaru",
+        "cityKanji": "北津軽"
+    },
+    {
+        "no": "02003",
+        "cityRomaji": "Sannohe",
+        "cityKanji": "三戸"
+    },
+    {
+        "no": "02004",
+        "cityRomaji": "Shimokita",
+        "cityKanji": "下北"
+    },
+    {
+        "no": "02005",
+        "cityRomaji": "Nakatsugaru",
+        "cityKanji": "中津軽"
+    },
+    {
+        "no": "02006",
+        "cityRomaji": "Nishitsugaru",
+        "cityKanji": "西津軽"
+    },
+    {
+        "no": "02007",
+        "cityRomaji": "Higashitsugaru",
+        "cityKanji": "東津軽"
+    },
+    {
+        "no": "02008",
+        "cityRomaji": "Minamitsugaru",
+        "cityKanji": "南津軽"
+    },
+    {
+        "no": "03001",
+        "cityRomaji": "Isawa",
+        "cityKanji": "胆沢"
+    },
+    {
+        "no": "03002",
+        "cityRomaji": "Iwate",
+        "cityKanji": "岩手"
+    },
+    {
+        "no": "03004",
+        "cityRomaji": "Kamihei",
+        "cityKanji": "上閉伊"
+    },
+    {
+        "no": "03005",
+        "cityRomaji": "Kunohe",
+        "cityKanji": "九戸"
+    },
+    {
+        "no": "03006",
+        "cityRomaji": "Kesen",
+        "cityKanji": "気仙"
+    },
+    {
+        "no": "03007",
+        "cityRomaji": "Shimohei",
+        "cityKanji": "下閉伊"
+    },
+    {
+        "no": "03008",
+        "cityRomaji": "Shiwa",
+        "cityKanji": "紫波"
+    },
+    {
+        "no": "03009",
+        "cityRomaji": "Nishiiwai",
+        "cityKanji": "西磐井"
+    },
+    {
+        "no": "03010",
+        "cityRomaji": "Ninohe",
+        "cityKanji": "二戸"
+    },
+    {
+        "no": "03013",
+        "cityRomaji": "Waga",
+        "cityKanji": "和賀"
+    },
+    {
+        "no": "04001",
+        "cityRomaji": "Ogachi",
+        "cityKanji": "雄勝"
+    },
+    {
+        "no": "04002",
+        "cityRomaji": "Kazuno",
+        "cityKanji": "鹿角"
+    },
+    {
+        "no": "04004",
+        "cityRomaji": "Kitaakita",
+        "cityKanji": "北秋田"
+    },
+    {
+        "no": "04005",
+        "cityRomaji": "Semboku",
+        "cityKanji": "仙北"
+    },
+    {
+        "no": "04007",
+        "cityRomaji": "Minamiakita",
+        "cityKanji": "南秋田"
+    },
+    {
+        "no": "04008",
+        "cityRomaji": "Yamamoto",
+        "cityKanji": "山本"
+    },
+    {
+        "no": "05001",
+        "cityRomaji": "Akumi",
+        "cityKanji": "飽海"
+    },
+    {
+        "no": "05002",
+        "cityRomaji": "Kitamurayama",
+        "cityKanji": "北村山"
+    },
+    {
+        "no": "05003",
+        "cityRomaji": "Nishiokitama",
+        "cityKanji": "西置賜"
+    },
+    {
+        "no": "05005",
+        "cityRomaji": "Nishimurayama",
+        "cityKanji": "西村山"
+    },
+    {
+        "no": "05006",
+        "cityRomaji": "Higashiokitama",
+        "cityKanji": "東置賜"
+    },
+    {
+        "no": "05007",
+        "cityRomaji": "Higashitagawa",
+        "cityKanji": "東田川"
+    },
+    {
+        "no": "05008",
+        "cityRomaji": "Higashimurayama",
+        "cityKanji": "東村山"
+    },
+    {
+        "no": "05011",
+        "cityRomaji": "Mogami",
+        "cityKanji": "最上"
+    },
+    {
+        "no": "06001",
+        "cityRomaji": "Igu",
+        "cityKanji": "伊具"
+    },
+    {
+        "no": "06002",
+        "cityRomaji": "Oshika",
+        "cityKanji": "牡鹿"
+    },
+    {
+        "no": "06003",
+        "cityRomaji": "Katta",
+        "cityKanji": "刈田"
+    },
+    {
+        "no": "06004",
+        "cityRomaji": "Kami",
+        "cityKanji": "加美"
+    },
+    {
+        "no": "06006",
+        "cityRomaji": "Kurokawa",
+        "cityKanji": "黒川"
+    },
+    {
+        "no": "06008",
+        "cityRomaji": "Shibata",
+        "cityKanji": "柴田"
+    },
+    {
+        "no": "06010",
+        "cityRomaji": "Toda",
+        "cityKanji": "遠田"
+    },
+    {
+        "no": "06013",
+        "cityRomaji": "Miyagi",
+        "cityKanji": "宮城"
+    },
+    {
+        "no": "06014",
+        "cityRomaji": "Motoyoshi",
+        "cityKanji": "本吉"
+    },
+    {
+        "no": "06016",
+        "cityRomaji": "Watari",
+        "cityKanji": "亘理"
+    },
+    {
+        "no": "07002",
+        "cityRomaji": "Adachi",
+        "cityKanji": "安達"
+    },
+    {
+        "no": "07003",
+        "cityRomaji": "Ishikawa",
+        "cityKanji": "石川"
+    },
+    {
+        "no": "07005",
+        "cityRomaji": "Iwase",
+        "cityKanji": "岩瀬"
+    },
+    {
+        "no": "07006",
+        "cityRomaji": "Onuma",
+        "cityKanji": "大沼"
+    },
+    {
+        "no": "07007",
+        "cityRomaji": "Kawanuma",
+        "cityKanji": "河沼"
+    },
+    {
+        "no": "07010",
+        "cityRomaji": "Soma",
+        "cityKanji": "相馬"
+    },
+    {
+        "no": "07011",
+        "cityRomaji": "Date",
+        "cityKanji": "伊達"
+    },
+    {
+        "no": "07012",
+        "cityRomaji": "Tamura",
+        "cityKanji": "田村"
+    },
+    {
+        "no": "07013",
+        "cityRomaji": "Nishishirakawa",
+        "cityKanji": "西白河"
+    },
+    {
+        "no": "07014",
+        "cityRomaji": "Higashishirakawa",
+        "cityKanji": "東白川"
+    },
+    {
+        "no": "07015",
+        "cityRomaji": "Futaba",
+        "cityKanji": "双葉"
+    },
+    {
+        "no": "07016",
+        "cityRomaji": "Minamiaizu",
+        "cityKanji": "南会津"
+    },
+    {
+        "no": "07017",
+        "cityRomaji": "Yama",
+        "cityKanji": "耶麻"
+    },
+    {
+        "no": "08001",
+        "cityRomaji": "Iwafune",
+        "cityKanji": "岩船"
+    },
+    {
+        "no": "08002",
+        "cityRomaji": "Kariwa",
+        "cityKanji": "刈羽"
+    },
+    {
+        "no": "08007",
+        "cityRomaji": "Santo",
+        "cityKanji": "三島"
+    },
+    {
+        "no": "08008",
+        "cityRomaji": "Nakauonuma",
+        "cityKanji": "中魚沼"
+    },
+    {
+        "no": "08011",
+        "cityRomaji": "Nishikambara",
+        "cityKanji": "西蒲原"
+    },
+    {
+        "no": "08013",
+        "cityRomaji": "Higashikambara",
+        "cityKanji": "東蒲原"
+    },
+    {
+        "no": "08015",
+        "cityRomaji": "Minamiuonuma",
+        "cityKanji": "南魚沼"
+    },
+    {
+        "no": "08016",
+        "cityRomaji": "Minamikambara",
+        "cityKanji": "南蒲原"
+    },
+    {
+        "no": "09001",
+        "cityRomaji": "Kamiina",
+        "cityKanji": "上伊那"
+    },
+    {
+        "no": "09002",
+        "cityRomaji": "Kamitakai",
+        "cityKanji": "上高井"
+    },
+    {
+        "no": "09003",
+        "cityRomaji": "Kamiminochi",
+        "cityKanji": "上水内"
+    },
+    {
+        "no": "09004",
+        "cityRomaji": "Kiso",
+        "cityKanji": "木曽"
+    },
+    {
+        "no": "09005",
+        "cityRomaji": "Kitaazumi",
+        "cityKanji": "北安曇"
+    },
+    {
+        "no": "09006",
+        "cityRomaji": "Kitasaku",
+        "cityKanji": "北佐久"
+    },
+    {
+        "no": "09008",
+        "cityRomaji": "Shimoina",
+        "cityKanji": "下伊那"
+    },
+    {
+        "no": "09009",
+        "cityRomaji": "Shimotakai",
+        "cityKanji": "下高井"
+    },
+    {
+        "no": "09010",
+        "cityRomaji": "Shimominochi",
+        "cityKanji": "下水内"
+    },
+    {
+        "no": "09011",
+        "cityRomaji": "Suwa",
+        "cityKanji": "諏訪"
+    },
+    {
+        "no": "09012",
+        "cityRomaji": "Chiisagata",
+        "cityKanji": "小県"
+    },
+    {
+        "no": "09013",
+        "cityRomaji": "(Reserved)",
+        "cityKanji": "(欠番）"
+    },
+    {
+        "no": "09014",
+        "cityRomaji": "Hanishina",
+        "cityKanji": "埴科"
+    },
+    {
+        "no": "09015",
+        "cityRomaji": "Higashichikuma",
+        "cityKanji": "東筑摩"
+    },
+    {
+        "no": "09017",
+        "cityRomaji": "Minamisaku",
+        "cityKanji": "南佐久"
+    },
+    {
+        "no": "10002",
+        "cityRomaji": "Nishitama",
+        "cityKanji": "西多摩"
+    },
+    {
+        "no": "10004",
+        "cityRomaji": "Oshima-Shicho",
+        "cityKanji": "大島支庁"
+    },
+    {
+        "no": "10004",
+        "cityRomaji": "Oshimamachi",
+        "cityKanji": "大島町"
+    },
+    {
+        "no": "10004",
+        "cityRomaji": "Toshimamura",
+        "cityKanji": "利島村"
+    },
+    {
+        "no": "10004",
+        "cityRomaji": "Niijimamura",
+        "cityKanji": "新島村"
+    },
+    {
+        "no": "10004",
+        "cityRomaji": "Kozushimamura",
+        "cityKanji": "神津島村"
+    },
+    {
+        "no": "10005",
+        "cityRomaji": "Miyake-Shicho",
+        "cityKanji": "三宅支庁"
+    },
+    {
+        "no": "10005",
+        "cityRomaji": "Miyakemura",
+        "cityKanji": "三宅村"
+    },
+    {
+        "no": "10005",
+        "cityRomaji": "Mikurajimamura",
+        "cityKanji": "御蔵島村"
+    },
+    {
+        "no": "10006",
+        "cityRomaji": "Hachijo-Shicho",
+        "cityKanji": "八丈支庁"
+    },
+    {
+        "no": "10006",
+        "cityRomaji": "Hachijomachi",
+        "cityKanji": "八丈町"
+    },
+    {
+        "no": "10006",
+        "cityRomaji": "Torishima",
+        "cityKanji": "鳥島"
+    },
+    {
+        "no": "10006",
+        "cityRomaji": "Aogashimamura",
+        "cityKanji": "青ヶ島村"
+    },
+    {
+        "no": "10007",
+        "cityRomaji": "Ogasawara-Shicho",
+        "cityKanji": "小笠原支庁"
+    },
+    {
+        "no": "10007",
+        "cityRomaji": "Ogasawaramura",
+        "cityKanji": "小笠原村"
+    },
+    {
+        "no": "10007",
+        "cityRomaji": "Chichijima",
+        "cityKanji": "父島"
+    },
+    {
+        "no": "10007",
+        "cityRomaji": "Hahajima",
+        "cityKanji": "母島"
+    },
+    {
+        "no": "10007",
+        "cityRomaji": "Iwojima",
+        "cityKanji": "硫黄島"
+    },
+    {
+        "no": "10007",
+        "cityRomaji": "Okinotorishima",
+        "cityKanji": "沖の鳥島"
+    },
+    {
+        "no": "10007",
+        "cityRomaji": "Minamitorishima",
+        "cityKanji": "南鳥島"
+    },
+    {
+        "no": "11001",
+        "cityRomaji": "Aiko",
+        "cityKanji": "愛甲"
+    },
+    {
+        "no": "11002",
+        "cityRomaji": "Ashigarakami",
+        "cityKanji": "足柄上"
+    },
+    {
+        "no": "11003",
+        "cityRomaji": "Ashigarashimo",
+        "cityKanji": "足柄下"
+    },
+    {
+        "no": "11004",
+        "cityRomaji": "Koza",
+        "cityKanji": "高座"
+    },
+    {
+        "no": "11006",
+        "cityRomaji": "Naka",
+        "cityKanji": "中"
+    },
+    {
+        "no": "11007",
+        "cityRomaji": "Miura",
+        "cityKanji": "三浦"
+    },
+    {
+        "no": "12001",
+        "cityRomaji": "Awa",
+        "cityKanji": "安房"
+    },
+    {
+        "no": "12002",
+        "cityRomaji": "Isumi",
+        "cityKanji": "夷隅"
+    },
+    {
+        "no": "12004",
+        "cityRomaji": "Inba",
+        "cityKanji": "印旛"
+    },
+    {
+        "no": "12006",
+        "cityRomaji": "Katori",
+        "cityKanji": "香取"
+    },
+    {
+        "no": "12008",
+        "cityRomaji": "Sambu",
+        "cityKanji": "山武"
+    },
+    {
+        "no": "12011",
+        "cityRomaji": "Chosei",
+        "cityKanji": "長生"
+    },
+    {
+        "no": "13001",
+        "cityRomaji": "Iruma",
+        "cityKanji": "入間"
+    },
+    {
+        "no": "13002",
+        "cityRomaji": "Osato",
+        "cityKanji": "大里"
+    },
+    {
+        "no": "13003",
+        "cityRomaji": "Kitaadachi",
+        "cityKanji": "北足立"
+    },
+    {
+        "no": "13004",
+        "cityRomaji": "Kitakatsushika",
+        "cityKanji": "北葛飾"
+    },
+    {
+        "no": "13006",
+        "cityRomaji": "Kodama",
+        "cityKanji": "児玉"
+    },
+    {
+        "no": "13007",
+        "cityRomaji": "Chichibu",
+        "cityKanji": "秩父"
+    },
+    {
+        "no": "13008",
+        "cityRomaji": "Hiki",
+        "cityKanji": "比企"
+    },
+    {
+        "no": "13009",
+        "cityRomaji": "Minamisaitama",
+        "cityKanji": "南埼玉"
+    },
+    {
+        "no": "14001",
+        "cityRomaji": "Inashiki",
+        "cityKanji": "稲敷"
+    },
+    {
+        "no": "14003",
+        "cityRomaji": "Kitasoma",
+        "cityKanji": "北相馬"
+    },
+    {
+        "no": "14004",
+        "cityRomaji": "Kuji",
+        "cityKanji": "久慈"
+    },
+    {
+        "no": "14005",
+        "cityRomaji": "Sashima",
+        "cityKanji": "猿島"
+    },
+    {
+        "no": "14008",
+        "cityRomaji": "Naka",
+        "cityKanji": "那珂"
+    },
+    {
+        "no": "14012",
+        "cityRomaji": "Higashiibaraki",
+        "cityKanji": "東茨城"
+    },
+    {
+        "no": "14014",
+        "cityRomaji": "Yuki",
+        "cityKanji": "結城"
+    },
+    {
+        "no": "15004",
+        "cityRomaji": "Kawachi",
+        "cityKanji": "河内"
+    },
+    {
+        "no": "15005",
+        "cityRomaji": "Shioya",
+        "cityKanji": "塩谷"
+    },
+    {
+        "no": "15006",
+        "cityRomaji": "Shimotsuga",
+        "cityKanji": "下都賀"
+    },
+    {
+        "no": "15007",
+        "cityRomaji": "Nasu",
+        "cityKanji": "那須"
+    },
+    {
+        "no": "15008",
+        "cityRomaji": "Haga",
+        "cityKanji": "芳賀"
+    },
+    {
+        "no": "16001",
+        "cityRomaji": "Agatsuma",
+        "cityKanji": "吾妻"
+    },
+    {
+        "no": "16003",
+        "cityRomaji": "Ora",
+        "cityKanji": "邑楽"
+    },
+    {
+        "no": "16004",
+        "cityRomaji": "Kanra",
+        "cityKanji": "甘楽"
+    },
+    {
+        "no": "16005",
+        "cityRomaji": "Kitagumma",
+        "cityKanji": "北群馬"
+    },
+    {
+        "no": "16007",
+        "cityRomaji": "Sawa",
+        "cityKanji": "佐波"
+    },
+    {
+        "no": "16009",
+        "cityRomaji": "Tano",
+        "cityKanji": "多野"
+    },
+    {
+        "no": "16010",
+        "cityRomaji": "Tone",
+        "cityKanji": "利根"
+    },
+    {
+        "no": "17002",
+        "cityRomaji": "Kitatsuru",
+        "cityKanji": "北都留"
+    },
+    {
+        "no": "17003",
+        "cityRomaji": "Nakakoma",
+        "cityKanji": "中巨摩"
+    },
+    {
+        "no": "17004",
+        "cityRomaji": "Nishiyatsushiro",
+        "cityKanji": "西八代"
+    },
+    {
+        "no": "17007",
+        "cityRomaji": "Minamikoma",
+        "cityKanji": "南巨摩"
+    },
+    {
+        "no": "17008",
+        "cityRomaji": "Minamitsuru",
+        "cityKanji": "南都留"
+    },
+    {
+        "no": "18006",
+        "cityRomaji": "Kamo",
+        "cityKanji": "賀茂"
+    },
+    {
+        "no": "18008",
+        "cityRomaji": "Shuchi",
+        "cityKanji": "周智"
+    },
+    {
+        "no": "18009",
+        "cityRomaji": "Sunto",
+        "cityKanji": "駿東"
+    },
+    {
+        "no": "18010",
+        "cityRomaji": "Tagata",
+        "cityKanji": "田方"
+    },
+    {
+        "no": "18011",
+        "cityRomaji": "Haibara",
+        "cityKanji": "榛原"
+    },
+    {
+        "no": "19001",
+        "cityRomaji": "Anpachi",
+        "cityKanji": "安八"
+    },
+    {
+        "no": "19003",
+        "cityRomaji": "Ibi",
+        "cityKanji": "揖斐"
+    },
+    {
+        "no": "19005",
+        "cityRomaji": "Ono",
+        "cityKanji": "大野"
+    },
+    {
+        "no": "19007",
+        "cityRomaji": "Kani",
+        "cityKanji": "可児"
+    },
+    {
+        "no": "19008",
+        "cityRomaji": "Kamo",
+        "cityKanji": "加茂"
+    },
+    {
+        "no": "19011",
+        "cityRomaji": "Hashima",
+        "cityKanji": "羽島"
+    },
+    {
+        "no": "19012",
+        "cityRomaji": "Fuwa",
+        "cityKanji": "不破"
+    },
+    {
+        "no": "19015",
+        "cityRomaji": "Motosu",
+        "cityKanji": "本巣"
+    },
+    {
+        "no": "19017",
+        "cityRomaji": "Yoro",
+        "cityKanji": "養老"
+    },
+    {
+        "no": "20001",
+        "cityRomaji": "Aichi",
+        "cityKanji": "愛知"
+    },
+    {
+        "no": "20003",
+        "cityRomaji": "Ama",
+        "cityKanji": "海部"
+    },
+    {
+        "no": "20004",
+        "cityRomaji": "Kitashitara",
+        "cityKanji": "北設楽"
+    },
+    {
+        "no": "20005",
+        "cityRomaji": "Chita",
+        "cityKanji": "知多"
+    },
+    {
+        "no": "20007",
+        "cityRomaji": "Nishikasugai",
+        "cityKanji": "西春日井"
+    },
+    {
+        "no": "20009",
+        "cityRomaji": "Niwa",
+        "cityKanji": "丹羽"
+    },
+    {
+        "no": "20010",
+        "cityRomaji": "Nukata",
+        "cityKanji": "額田"
+    },
+    {
+        "no": "21006",
+        "cityRomaji": "Inabe",
+        "cityKanji": "員弁"
+    },
+    {
+        "no": "21008",
+        "cityRomaji": "Kitamuro",
+        "cityKanji": "北牟婁"
+    },
+    {
+        "no": "21009",
+        "cityRomaji": "Kuwana",
+        "cityKanji": "桑名"
+    },
+    {
+        "no": "21012",
+        "cityRomaji": "Taki",
+        "cityKanji": "多気"
+    },
+    {
+        "no": "21014",
+        "cityRomaji": "Mie",
+        "cityKanji": "三重"
+    },
+    {
+        "no": "21015",
+        "cityRomaji": "Minamimuro",
+        "cityKanji": "南牟婁"
+    },
+    {
+        "no": "21016",
+        "cityRomaji": "Watarai",
+        "cityKanji": "度会"
+    },
+    {
+        "no": "22003",
+        "cityRomaji": "Otokuni",
+        "cityKanji": "乙訓"
+    },
+    {
+        "no": "22006",
+        "cityRomaji": "Kuse",
+        "cityKanji": "久世"
+    },
+    {
+        "no": "22008",
+        "cityRomaji": "Soraku",
+        "cityKanji": "相楽"
+    },
+    {
+        "no": "22010",
+        "cityRomaji": "Tsuzuki",
+        "cityKanji": "綴喜"
+    },
+    {
+        "no": "22012",
+        "cityRomaji": "Funai",
+        "cityKanji": "船井"
+    },
+    {
+        "no": "22014",
+        "cityRomaji": "Yoza",
+        "cityKanji": "与謝"
+    },
+    {
+        "no": "23002",
+        "cityRomaji": "Inukami",
+        "cityKanji": "犬上"
+    },
+    {
+        "no": "23003",
+        "cityRomaji": "Echi",
+        "cityKanji": "愛知"
+    },
+    {
+        "no": "23004",
+        "cityRomaji": "Gamou",
+        "cityKanji": "蒲生"
+    },
+    {
+        "no": "24001",
+        "cityRomaji": "Ikoma",
+        "cityKanji": "生駒"
+    },
+    {
+        "no": "24002",
+        "cityRomaji": "Uda",
+        "cityKanji": "宇陀"
+    },
+    {
+        "no": "24004",
+        "cityRomaji": "Kitakatsuragi",
+        "cityKanji": "北葛城"
+    },
+    {
+        "no": "24005",
+        "cityRomaji": "Shiki",
+        "cityKanji": "磯城"
+    },
+    {
+        "no": "24007",
+        "cityRomaji": "Takaichi",
+        "cityKanji": "高市"
+    },
+    {
+        "no": "24009",
+        "cityRomaji": "Yamabe",
+        "cityKanji": "山辺"
+    },
+    {
+        "no": "24010",
+        "cityRomaji": "Yoshino",
+        "cityKanji": "吉野"
+    },
+    {
+        "no": "25002",
+        "cityRomaji": "Sennan",
+        "cityKanji": "泉南"
+    },
+    {
+        "no": "25003",
+        "cityRomaji": "Senboku",
+        "cityKanji": "泉北"
+    },
+    {
+        "no": "25004",
+        "cityRomaji": "Toyono",
+        "cityKanji": "豊能"
+    },
+    {
+        "no": "25006",
+        "cityRomaji": "Mishima",
+        "cityKanji": "三島"
+    },
+    {
+        "no": "25007",
+        "cityRomaji": "Minamikawachi",
+        "cityKanji": "南河内"
+    },
+    {
+        "no": "26001",
+        "cityRomaji": "Arida",
+        "cityKanji": "有田"
+    },
+    {
+        "no": "26002",
+        "cityRomaji": "Ito",
+        "cityKanji": "伊都"
+    },
+    {
+        "no": "26003",
+        "cityRomaji": "Kaiso",
+        "cityKanji": "海草"
+    },
+    {
+        "no": "26005",
+        "cityRomaji": "Nishimuro",
+        "cityKanji": "西牟婁"
+    },
+    {
+        "no": "26006",
+        "cityRomaji": "Higashimuro",
+        "cityKanji": "東牟婁"
+    },
+    {
+        "no": "26007",
+        "cityRomaji": "Hidaka",
+        "cityKanji": "日高"
+    },
+    {
+        "no": "27001",
+        "cityRomaji": "Akou",
+        "cityKanji": "赤穂"
+    },
+    {
+        "no": "27005",
+        "cityRomaji": "Ibo",
+        "cityKanji": "揖保"
+    },
+    {
+        "no": "27007",
+        "cityRomaji": "Kako",
+        "cityKanji": "加古"
+    },
+    {
+        "no": "27010",
+        "cityRomaji": "Kawabe",
+        "cityKanji": "川辺"
+    },
+    {
+        "no": "27011",
+        "cityRomaji": "Kanzaki",
+        "cityKanji": "神崎"
+    },
+    {
+        "no": "27013",
+        "cityRomaji": "Sayo",
+        "cityKanji": "佐用"
+    },
+    {
+        "no": "27016",
+        "cityRomaji": "Taka",
+        "cityKanji": "多可"
+    },
+    {
+        "no": "27020",
+        "cityRomaji": "Mikata",
+        "cityKanji": "美方"
+    },
+    {
+        "no": "28003",
+        "cityRomaji": "Shimoniikawa",
+        "cityKanji": "下新川"
+    },
+    {
+        "no": "28004",
+        "cityRomaji": "Nakaniikawa",
+        "cityKanji": "中新川"
+    },
+    {
+        "no": "29002",
+        "cityRomaji": "Imadate",
+        "cityKanji": "今立"
+    },
+    {
+        "no": "29003",
+        "cityRomaji": "Oi",
+        "cityKanji": "大飯"
+    },
+    {
+        "no": "29008",
+        "cityRomaji": "Nanjo",
+        "cityKanji": "南条"
+    },
+    {
+        "no": "29009",
+        "cityRomaji": "Nyuu",
+        "cityKanji": "丹生"
+    },
+    {
+        "no": "29010",
+        "cityRomaji": "Mikata",
+        "cityKanji": "三方"
+    },
+    {
+        "no": "29011",
+        "cityRomaji": "Yoshida",
+        "cityKanji": "吉田"
+    },
+    {
+        "no": "30003",
+        "cityRomaji": "Kashima",
+        "cityKanji": "鹿島"
+    },
+    {
+        "no": "30004",
+        "cityRomaji": "Kahoku",
+        "cityKanji": "河北"
+    },
+    {
+        "no": "30006",
+        "cityRomaji": "Nomi",
+        "cityKanji": "能美"
+    },
+    {
+        "no": "30007",
+        "cityRomaji": "Hakui",
+        "cityKanji": "羽咋"
+    },
+    {
+        "no": "30009",
+        "cityRomaji": "Housu",
+        "cityKanji": "鳳珠"
+    },
+    {
+        "no": "31001",
+        "cityRomaji": "Aida",
+        "cityKanji": "英田"
+    },
+    {
+        "no": "31003",
+        "cityRomaji": "Asakuchi",
+        "cityKanji": "浅口"
+    },
+    {
+        "no": "31006",
+        "cityRomaji": "Oda",
+        "cityKanji": "小田"
+    },
+    {
+        "no": "31007",
+        "cityRomaji": "Katsuta",
+        "cityKanji": "勝田"
+    },
+    {
+        "no": "31010",
+        "cityRomaji": "Kume",
+        "cityKanji": "久米"
+    },
+    {
+        "no": "31015",
+        "cityRomaji": "Tsukubo",
+        "cityKanji": "都窪"
+    },
+    {
+        "no": "31016",
+        "cityRomaji": "Tomata",
+        "cityKanji": "苫田"
+    },
+    {
+        "no": "31017",
+        "cityRomaji": "Maniwa",
+        "cityKanji": "真庭"
+    },
+    {
+        "no": "31019",
+        "cityRomaji": "Wake",
+        "cityKanji": "和気"
+    },
+    {
+        "no": "31020",
+        "cityRomaji": "Kaga",
+        "cityKanji": "加賀"
+    },
+    {
+        "no": "32003",
+        "cityRomaji": "Iishi",
+        "cityKanji": "飯石"
+    },
+    {
+        "no": "32004",
+        "cityRomaji": "Ochi",
+        "cityKanji": "邑智"
+    },
+    {
+        "no": "32006",
+        "cityRomaji": "Oki",
+        "cityKanji": "隠岐"
+    },
+    {
+        "no": "32008",
+        "cityRomaji": "Kanoashi",
+        "cityKanji": "鹿足"
+    },
+    {
+        "no": "32012",
+        "cityRomaji": "Nita",
+        "cityKanji": "仁多"
+    },
+    {
+        "no": "33002",
+        "cityRomaji": "Abu",
+        "cityKanji": "阿武"
+    },
+    {
+        "no": "33003",
+        "cityRomaji": "Oshima",
+        "cityKanji": "大島"
+    },
+    {
+        "no": "33005",
+        "cityRomaji": "Kuga",
+        "cityKanji": "玖珂"
+    },
+    {
+        "no": "33006",
+        "cityRomaji": "Kumage",
+        "cityKanji": "熊毛"
+    },
+    {
+        "no": "34001",
+        "cityRomaji": "Iwami",
+        "cityKanji": "岩美"
+    },
+    {
+        "no": "34003",
+        "cityRomaji": "Saihaku",
+        "cityKanji": "西伯"
+    },
+    {
+        "no": "34004",
+        "cityRomaji": "Tohaku",
+        "cityKanji": "東伯"
+    },
+    {
+        "no": "34005",
+        "cityRomaji": "Hino",
+        "cityKanji": "日野"
+    },
+    {
+        "no": "34006",
+        "cityRomaji": "Yazu",
+        "cityKanji": "八頭"
+    },
+    {
+        "no": "35001",
+        "cityRomaji": "Aki",
+        "cityKanji": "安芸"
+    },
+    {
+        "no": "35007",
+        "cityRomaji": "Jinseki",
+        "cityKanji": "神石"
+    },
+    {
+        "no": "35008",
+        "cityRomaji": "Sera",
+        "cityKanji": "世羅"
+    },
+    {
+        "no": "35010",
+        "cityRomaji": "Toyota",
+        "cityKanji": "豊田"
+    },
+    {
+        "no": "35016",
+        "cityRomaji": "Yamagata",
+        "cityKanji": "山県"
+    },
+    {
+        "no": "36001",
+        "cityRomaji": "Ayauta",
+        "cityKanji": "綾歌"
+    },
+    {
+        "no": "36003",
+        "cityRomaji": "Kagawa",
+        "cityKanji": "香川"
+    },
+    {
+        "no": "36004",
+        "cityRomaji": "Kita",
+        "cityKanji": "木田"
+    },
+    {
+        "no": "36005",
+        "cityRomaji": "Syozu",
+        "cityKanji": "小豆"
+    },
+    {
+        "no": "36006",
+        "cityRomaji": "Nakatado",
+        "cityKanji": "仲多度"
+    },
+    {
+        "no": "37002",
+        "cityRomaji": "Itano",
+        "cityKanji": "板野"
+    },
+    {
+        "no": "37004",
+        "cityRomaji": "Kaifu",
+        "cityKanji": "海部"
+    },
+    {
+        "no": "37005",
+        "cityRomaji": "Katsuura",
+        "cityKanji": "勝浦"
+    },
+    {
+        "no": "37006",
+        "cityRomaji": "Naka",
+        "cityKanji": "那賀"
+    },
+    {
+        "no": "37007",
+        "cityRomaji": "Myozai",
+        "cityKanji": "名西"
+    },
+    {
+        "no": "37008",
+        "cityRomaji": "Myodo",
+        "cityKanji": "名東"
+    },
+    {
+        "no": "37009",
+        "cityRomaji": "Mima",
+        "cityKanji": "美馬"
+    },
+    {
+        "no": "37010",
+        "cityRomaji": "Miyoshi",
+        "cityKanji": "三好"
+    },
+    {
+        "no": "38001",
+        "cityRomaji": "Iyo",
+        "cityKanji": "伊予"
+    },
+    {
+        "no": "38003",
+        "cityRomaji": "Ochi",
+        "cityKanji": "越智"
+    },
+    {
+        "no": "38005",
+        "cityRomaji": "Kamiukena",
+        "cityKanji": "上浮穴"
+    },
+    {
+        "no": "38006",
+        "cityRomaji": "Kita",
+        "cityKanji": "喜多"
+    },
+    {
+        "no": "38007",
+        "cityRomaji": "Kitauwa",
+        "cityKanji": "北宇和"
+    },
+    {
+        "no": "38010",
+        "cityRomaji": "Nishiuwa",
+        "cityKanji": "西宇和"
+    },
+    {
+        "no": "38012",
+        "cityRomaji": "Minamiuwa",
+        "cityKanji": "南宇和"
+    },
+    {
+        "no": "39001",
+        "cityRomaji": "Agawa",
+        "cityKanji": "吾川"
+    },
+    {
+        "no": "39002",
+        "cityRomaji": "Aki",
+        "cityKanji": "安芸"
+    },
+    {
+        "no": "39004",
+        "cityRomaji": "Takaoka",
+        "cityKanji": "高岡"
+    },
+    {
+        "no": "39005",
+        "cityRomaji": "Tosa",
+        "cityKanji": "土佐"
+    },
+    {
+        "no": "39006",
+        "cityRomaji": "Nagaoka",
+        "cityKanji": "長岡"
+    },
+    {
+        "no": "39007",
+        "cityRomaji": "Hata",
+        "cityKanji": "幡多"
+    },
+    {
+        "no": "40001",
+        "cityRomaji": "Asakura",
+        "cityKanji": "朝倉"
+    },
+    {
+        "no": "40004",
+        "cityRomaji": "Onga",
+        "cityKanji": "遠賀"
+    },
+    {
+        "no": "40005",
+        "cityRomaji": "Kasuya",
+        "cityKanji": "糟屋"
+    },
+    {
+        "no": "40006",
+        "cityRomaji": "Kaho",
+        "cityKanji": "嘉穂"
+    },
+    {
+        "no": "40007",
+        "cityRomaji": "Kurate",
+        "cityKanji": "鞍手"
+    },
+    {
+        "no": "40009",
+        "cityRomaji": "Tagawa",
+        "cityKanji": "田川"
+    },
+    {
+        "no": "40011",
+        "cityRomaji": "Chikujo",
+        "cityKanji": "築上"
+    },
+    {
+        "no": "40012",
+        "cityRomaji": "Mii",
+        "cityKanji": "三井"
+    },
+    {
+        "no": "40014",
+        "cityRomaji": "Mizuma",
+        "cityKanji": "三潴"
+    },
+    {
+        "no": "40015",
+        "cityRomaji": "Miyako",
+        "cityKanji": "京都"
+    },
+    {
+        "no": "40018",
+        "cityRomaji": "Yame",
+        "cityKanji": "八女"
+    },
+    {
+        "no": "41002",
+        "cityRomaji": "Kanzaki",
+        "cityKanji": "神埼"
+    },
+    {
+        "no": "41003",
+        "cityRomaji": "Kishima",
+        "cityKanji": "杵島"
+    },
+    {
+        "no": "41005",
+        "cityRomaji": "Nishimatsuura",
+        "cityKanji": "西松浦"
+    },
+    {
+        "no": "41006",
+        "cityRomaji": "Higashimatsuura",
+        "cityKanji": "東松浦"
+    },
+    {
+        "no": "41007",
+        "cityRomaji": "Fujitsu",
+        "cityKanji": "藤津"
+    },
+    {
+        "no": "41008",
+        "cityRomaji": "Miyaki",
+        "cityKanji": "三養基"
+    },
+    {
+        "no": "42004",
+        "cityRomaji": "Kitamatsuura",
+        "cityKanji": "北松浦"
+    },
+    {
+        "no": "42006",
+        "cityRomaji": "Nishisonogi",
+        "cityKanji": "西彼杵"
+    },
+    {
+        "no": "42007",
+        "cityRomaji": "Higashisonogi",
+        "cityKanji": "東彼杵"
+    },
+    {
+        "no": "42009",
+        "cityRomaji": "Minamimatsuura",
+        "cityKanji": "南松浦"
+    },
+    {
+        "no": "43001",
+        "cityRomaji": "Ashikita",
+        "cityKanji": "葦北"
+    },
+    {
+        "no": "43002",
+        "cityRomaji": "Aso",
+        "cityKanji": "阿蘇"
+    },
+    {
+        "no": "43003",
+        "cityRomaji": "Amakusa",
+        "cityKanji": "天草"
+    },
+    {
+        "no": "43005",
+        "cityRomaji": "Kamimashiki",
+        "cityKanji": "上益城"
+    },
+    {
+        "no": "43007",
+        "cityRomaji": "Kikuchi",
+        "cityKanji": "菊池"
+    },
+    {
+        "no": "43008",
+        "cityRomaji": "Kuma",
+        "cityKanji": "球磨"
+    },
+    {
+        "no": "43009",
+        "cityRomaji": "Shimomashiki",
+        "cityKanji": "下益城"
+    },
+    {
+        "no": "43010",
+        "cityRomaji": "Tamana",
+        "cityKanji": "玉名"
+    },
+    {
+        "no": "43012",
+        "cityRomaji": "Yatsushiro",
+        "cityKanji": "八代"
+    },
+    {
+        "no": "44005",
+        "cityRomaji": "kusu",
+        "cityKanji": "玖珠"
+    },
+    {
+        "no": "44009",
+        "cityRomaji": "Hayami",
+        "cityKanji": "速見"
+    },
+    {
+        "no": "44010",
+        "cityRomaji": "Higashikunisaki",
+        "cityKanji": "東国東"
+    },
+    {
+        "no": "45001",
+        "cityRomaji": "Kitamorokata",
+        "cityKanji": "北諸県"
+    },
+    {
+        "no": "45002",
+        "cityRomaji": "Koyu",
+        "cityKanji": "児湯"
+    },
+    {
+        "no": "45003",
+        "cityRomaji": "Nishiusuki",
+        "cityKanji": "西臼杵"
+    },
+    {
+        "no": "45004",
+        "cityRomaji": "Nishimorokata",
+        "cityKanji": "西諸県"
+    },
+    {
+        "no": "45005",
+        "cityRomaji": "Higashiusuki",
+        "cityKanji": "東臼杵"
+    },
+    {
+        "no": "45006",
+        "cityRomaji": "Higashimorokata",
+        "cityKanji": "東諸県"
+    },
+    {
+        "no": "46001",
+        "cityRomaji": "Aira",
+        "cityKanji": "姶良"
+    },
+    {
+        "no": "46003",
+        "cityRomaji": "Izumi",
+        "cityKanji": "出水"
+    },
+    {
+        "no": "46005",
+        "cityRomaji": "Oshima",
+        "cityKanji": "大島"
+    },
+    {
+        "no": "46006",
+        "cityRomaji": "Kagoshima",
+        "cityKanji": "鹿児島"
+    },
+    {
+        "no": "46008",
+        "cityRomaji": "Kimotsuki",
+        "cityKanji": "肝属"
+    },
+    {
+        "no": "46009",
+        "cityRomaji": "Kumage",
+        "cityKanji": "熊毛"
+    },
+    {
+        "no": "46010",
+        "cityRomaji": "Satsuma",
+        "cityKanji": "薩摩"
+    },
+    {
+        "no": "46011",
+        "cityRomaji": "Soo",
+        "cityKanji": "曽於"
+    },
+    {
+        "no": "47001",
+        "cityRomaji": "Kunigami",
+        "cityKanji": "国頭"
+    },
+    {
+        "no": "47002",
+        "cityRomaji": "Shimajiri",
+        "cityKanji": "島尻"
+    },
+    {
+        "no": "47003",
+        "cityRomaji": "Nakagami",
+        "cityKanji": "中頭"
+    },
+    {
+        "no": "47004",
+        "cityRomaji": "Miyako",
+        "cityKanji": "宮古"
+    },
+    {
+        "no": "47005",
+        "cityRomaji": "Yaeyama",
+        "cityKanji": "八重山"
+    },
+    {
+        "no": "0101",
+        "cityRomaji": "Sapporo",
+        "cityKanji": "札幌"
+    },
+    {
+        "no": "0102",
+        "cityRomaji": "Asahikawa",
+        "cityKanji": "旭川"
+    },
+    {
+        "no": "0103",
+        "cityRomaji": "Otaru",
+        "cityKanji": "小樽"
+    },
+    {
+        "no": "0104",
+        "cityRomaji": "Hakodate",
+        "cityKanji": "函館"
+    },
+    {
+        "no": "0105",
+        "cityRomaji": "Muroran",
+        "cityKanji": "室蘭"
+    },
+    {
+        "no": "0106",
+        "cityRomaji": "Kushiro",
+        "cityKanji": "釧路"
+    },
+    {
+        "no": "0107",
+        "cityRomaji": "Obihiro",
+        "cityKanji": "帯広"
+    },
+    {
+        "no": "0108",
+        "cityRomaji": "Kitami",
+        "cityKanji": "北見"
+    },
+    {
+        "no": "0109",
+        "cityRomaji": "Yubari",
+        "cityKanji": "夕張"
+    },
+    {
+        "no": "0110",
+        "cityRomaji": "Iwamizawa",
+        "cityKanji": "岩見沢"
+    },
+    {
+        "no": "0111",
+        "cityRomaji": "Abashiri",
+        "cityKanji": "網走"
+    },
+    {
+        "no": "0112",
+        "cityRomaji": "Rumoi",
+        "cityKanji": "留萌"
+    },
+    {
+        "no": "0113",
+        "cityRomaji": "Tomakomai",
+        "cityKanji": "苫小牧"
+    },
+    {
+        "no": "0114",
+        "cityRomaji": "Wakkanai",
+        "cityKanji": "稚内"
+    },
+    {
+        "no": "0115",
+        "cityRomaji": "Bibai",
+        "cityKanji": "美唄"
+    },
+    {
+        "no": "0116",
+        "cityRomaji": "Ashibetsu",
+        "cityKanji": "芦別"
+    },
+    {
+        "no": "0117",
+        "cityRomaji": "Ebetsu",
+        "cityKanji": "江別"
+    },
+    {
+        "no": "0118",
+        "cityRomaji": "Akabira",
+        "cityKanji": "赤平"
+    },
+    {
+        "no": "0119",
+        "cityRomaji": "Mombetsu",
+        "cityKanji": "紋別"
+    },
+    {
+        "no": "0120",
+        "cityRomaji": "Shibetsu",
+        "cityKanji": "士別"
+    },
+    {
+        "no": "0121",
+        "cityRomaji": "Nayoro",
+        "cityKanji": "名寄"
+    },
+    {
+        "no": "0122",
+        "cityRomaji": "Mikasa",
+        "cityKanji": "三笠"
+    },
+    {
+        "no": "0123",
+        "cityRomaji": "Nemuro",
+        "cityKanji": "根室"
+    },
+    {
+        "no": "0124",
+        "cityRomaji": "Chitose",
+        "cityKanji": "千歳"
+    },
+    {
+        "no": "0125",
+        "cityRomaji": "Takikawa",
+        "cityKanji": "滝川"
+    },
+    {
+        "no": "0126",
+        "cityRomaji": "Sunagawa",
+        "cityKanji": "砂川"
+    },
+    {
+        "no": "0127",
+        "cityRomaji": "Utashinai",
+        "cityKanji": "歌志内"
+    },
+    {
+        "no": "0128",
+        "cityRomaji": "Fukagawa",
+        "cityKanji": "深川"
+    },
+    {
+        "no": "0129",
+        "cityRomaji": "Furano",
+        "cityKanji": "富良野"
+    },
+    {
+        "no": "0130",
+        "cityRomaji": "Noboribetsu",
+        "cityKanji": "登別"
+    },
+    {
+        "no": "0131",
+        "cityRomaji": "Eniwa",
+        "cityKanji": "恵庭"
+    },
+    {
+        "no": "0133",
+        "cityRomaji": "Date",
+        "cityKanji": "伊達"
+    },
+    {
+        "no": "0134",
+        "cityRomaji": "Kitahiroshima",
+        "cityKanji": "北広島"
+    },
+    {
+        "no": "0135",
+        "cityRomaji": "Ishikari",
+        "cityKanji": "石狩"
+    },
+    {
+        "no": "0136",
+        "cityRomaji": "Hokuto",
+        "cityKanji": "北斗"
+    },
+    {
+        "no": "0201",
+        "cityRomaji": "Aomori",
+        "cityKanji": "青森"
+    },
+    {
+        "no": "0202",
+        "cityRomaji": "Hirosaki",
+        "cityKanji": "弘前"
+    },
+    {
+        "no": "0203",
+        "cityRomaji": "Hachinohe",
+        "cityKanji": "八戸"
+    },
+    {
+        "no": "0204",
+        "cityRomaji": "Kuroishi",
+        "cityKanji": "黒石"
+    },
+    {
+        "no": "0205",
+        "cityRomaji": "Goshogawara",
+        "cityKanji": "五所川原"
+    },
+    {
+        "no": "0206",
+        "cityRomaji": "Towada",
+        "cityKanji": "十和田"
+    },
+    {
+        "no": "0207",
+        "cityRomaji": "Misawa",
+        "cityKanji": "三沢"
+    },
+    {
+        "no": "0208",
+        "cityRomaji": "Mutsu",
+        "cityKanji": "むつ"
+    },
+    {
+        "no": "0209",
+        "cityRomaji": "Tsugaru",
+        "cityKanji": "つがる"
+    },
+    {
+        "no": "0210",
+        "cityRomaji": "Hirakawa",
+        "cityKanji": "平川"
+    },
+    {
+        "no": "0301",
+        "cityRomaji": "Morioka",
+        "cityKanji": "盛岡"
+    },
+    {
+        "no": "0302",
+        "cityRomaji": "Kamaishi",
+        "cityKanji": "釜石"
+    },
+    {
+        "no": "0303",
+        "cityRomaji": "Miyako",
+        "cityKanji": "宮古"
+    },
+    {
+        "no": "0304",
+        "cityRomaji": "Ichinoseki",
+        "cityKanji": "一関"
+    },
+    {
+        "no": "0305",
+        "cityRomaji": "Ofunato",
+        "cityKanji": "大船渡"
+    },
+    {
+        "no": "0307",
+        "cityRomaji": "Hanamaki",
+        "cityKanji": "花巻"
+    },
+    {
+        "no": "0308",
+        "cityRomaji": "Kitakami",
+        "cityKanji": "北上"
+    },
+    {
+        "no": "0309",
+        "cityRomaji": "Kuji",
+        "cityKanji": "久慈"
+    },
+    {
+        "no": "0310",
+        "cityRomaji": "Tono",
+        "cityKanji": "遠野"
+    },
+    {
+        "no": "0311",
+        "cityRomaji": "Rikuzentakata",
+        "cityKanji": "陸前高田"
+    },
+    {
+        "no": "0313",
+        "cityRomaji": "Ninohe",
+        "cityKanji": "二戸"
+    },
+    {
+        "no": "0314",
+        "cityRomaji": "Hachimantai",
+        "cityKanji": "八幡平"
+    },
+    {
+        "no": "0315",
+        "cityRomaji": "Oshu",
+        "cityKanji": "奥州"
+    },
+    {
+        "no": "0316",
+        "cityRomaji": "Takizawa",
+        "cityKanji": "滝沢"
+    },
+    {
+        "no": "0401",
+        "cityRomaji": "Akita",
+        "cityKanji": "秋田"
+    },
+    {
+        "no": "0402",
+        "cityRomaji": "Noshiro",
+        "cityKanji": "能代"
+    },
+    {
+        "no": "0403",
+        "cityRomaji": "Odate",
+        "cityKanji": "大館"
+    },
+    {
+        "no": "0404",
+        "cityRomaji": "Yokote",
+        "cityKanji": "横手"
+    },
+    {
+        "no": "0406",
+        "cityRomaji": "Oga",
+        "cityKanji": "男鹿"
+    },
+    {
+        "no": "0407",
+        "cityRomaji": "Yuzawa",
+        "cityKanji": "湯沢"
+    },
+    {
+        "no": "0409",
+        "cityRomaji": "Kazuno",
+        "cityKanji": "鹿角"
+    },
+    {
+        "no": "0410",
+        "cityRomaji": "Yurihonjo",
+        "cityKanji": "由利本荘"
+    },
+    {
+        "no": "0411",
+        "cityRomaji": "Katagami",
+        "cityKanji": "潟上"
+    },
+    {
+        "no": "0412",
+        "cityRomaji": "Daisen",
+        "cityKanji": "大仙"
+    },
+    {
+        "no": "0413",
+        "cityRomaji": "Kitaakita",
+        "cityKanji": "北秋田"
+    },
+    {
+        "no": "0414",
+        "cityRomaji": "Nikaho",
+        "cityKanji": "にかほ"
+    },
+    {
+        "no": "0415",
+        "cityRomaji": "Senboku",
+        "cityKanji": "仙北"
+    },
+    {
+        "no": "0501",
+        "cityRomaji": "Yamagata",
+        "cityKanji": "山形"
+    },
+    {
+        "no": "0502",
+        "cityRomaji": "Yonezawa",
+        "cityKanji": "米沢"
+    },
+    {
+        "no": "0503",
+        "cityRomaji": "Tsuruoka",
+        "cityKanji": "鶴岡"
+    },
+    {
+        "no": "0504",
+        "cityRomaji": "Sakata",
+        "cityKanji": "酒田"
+    },
+    {
+        "no": "0505",
+        "cityRomaji": "Shinjo",
+        "cityKanji": "新庄"
+    },
+    {
+        "no": "0506",
+        "cityRomaji": "Sagae",
+        "cityKanji": "寒河江"
+    },
+    {
+        "no": "0507",
+        "cityRomaji": "Kaminoyama",
+        "cityKanji": "上山"
+    },
+    {
+        "no": "0508",
+        "cityRomaji": "Murayama",
+        "cityKanji": "村山"
+    },
+    {
+        "no": "0509",
+        "cityRomaji": "Nagai",
+        "cityKanji": "長井"
+    },
+    {
+        "no": "0510",
+        "cityRomaji": "Tendo",
+        "cityKanji": "天童"
+    },
+    {
+        "no": "0511",
+        "cityRomaji": "Higashine",
+        "cityKanji": "東根"
+    },
+    {
+        "no": "0512",
+        "cityRomaji": "Obanazawa",
+        "cityKanji": "尾花沢"
+    },
+    {
+        "no": "0513",
+        "cityRomaji": "Nan'yo",
+        "cityKanji": "南陽"
+    },
+    {
+        "no": "0601",
+        "cityRomaji": "Sendai",
+        "cityKanji": "仙台"
+    },
+    {
+        "no": "0602",
+        "cityRomaji": "Ishinomaki",
+        "cityKanji": "石巻"
+    },
+    {
+        "no": "0603",
+        "cityRomaji": "Shiogama",
+        "cityKanji": "塩竈"
+    },
+    {
+        "no": "0605",
+        "cityRomaji": "Kesennuma",
+        "cityKanji": "気仙沼"
+    },
+    {
+        "no": "0606",
+        "cityRomaji": "Shiroishi",
+        "cityKanji": "白石"
+    },
+    {
+        "no": "0607",
+        "cityRomaji": "Natori",
+        "cityKanji": "名取"
+    },
+    {
+        "no": "0608",
+        "cityRomaji": "Kakuda",
+        "cityKanji": "角田"
+    },
+    {
+        "no": "0609",
+        "cityRomaji": "Tagajo",
+        "cityKanji": "多賀城"
+    },
+    {
+        "no": "0611",
+        "cityRomaji": "Iwanuma",
+        "cityKanji": "岩沼"
+    },
+    {
+        "no": "0612",
+        "cityRomaji": "Tome",
+        "cityKanji": "登米"
+    },
+    {
+        "no": "0613",
+        "cityRomaji": "Kurihara",
+        "cityKanji": "栗原"
+    },
+    {
+        "no": "0614",
+        "cityRomaji": "Higashimatsushima",
+        "cityKanji": "東松島"
+    },
+    {
+        "no": "0615",
+        "cityRomaji": "Osaki",
+        "cityKanji": "大崎"
+    },
+    {
+        "no": "0616",
+        "cityRomaji": "Tomiya",
+        "cityKanji": "富谷"
+    },
+    {
+        "no": "0701",
+        "cityRomaji": "Fukushima",
+        "cityKanji": "福島"
+    },
+    {
+        "no": "0702",
+        "cityRomaji": "Aizuwakamatsu",
+        "cityKanji": "会津若松"
+    },
+    {
+        "no": "0703",
+        "cityRomaji": "Koriyama",
+        "cityKanji": "郡山"
+    },
+    {
+        "no": "0705",
+        "cityRomaji": "Shirakawa",
+        "cityKanji": "白河"
+    },
+    {
+        "no": "0707",
+        "cityRomaji": "Sukagawa",
+        "cityKanji": "須賀川"
+    },
+    {
+        "no": "0708",
+        "cityRomaji": "Kitakata",
+        "cityKanji": "喜多方"
+    },
+    {
+        "no": "0711",
+        "cityRomaji": "Soma",
+        "cityKanji": "相馬"
+    },
+    {
+        "no": "0714",
+        "cityRomaji": "Nihonmatsu",
+        "cityKanji": "二本松"
+    },
+    {
+        "no": "0715",
+        "cityRomaji": "Iwaki",
+        "cityKanji": "いわき"
+    },
+    {
+        "no": "0717",
+        "cityRomaji": "Tamura",
+        "cityKanji": "田村"
+    },
+    {
+        "no": "0718",
+        "cityRomaji": "Minamisoma",
+        "cityKanji": "南相馬"
+    },
+    {
+        "no": "0719",
+        "cityRomaji": "Date",
+        "cityKanji": "伊達"
+    },
+    {
+        "no": "0720",
+        "cityRomaji": "Motomiya",
+        "cityKanji": "本宮"
+    },
+    {
+        "no": "0801",
+        "cityRomaji": "Niigata",
+        "cityKanji": "新潟"
+    },
+    {
+        "no": "0802",
+        "cityRomaji": "Nagaoka",
+        "cityKanji": "長岡"
+    },
+    {
+        "no": "0804",
+        "cityRomaji": "Sanjo",
+        "cityKanji": "三条"
+    },
+    {
+        "no": "0805",
+        "cityRomaji": "Kashiwazaki",
+        "cityKanji": "柏崎"
+    },
+    {
+        "no": "0806",
+        "cityRomaji": "Shibata",
+        "cityKanji": "新発田"
+    },
+    {
+        "no": "0808",
+        "cityRomaji": "Ojiya",
+        "cityKanji": "小千谷"
+    },
+    {
+        "no": "0809",
+        "cityRomaji": "Kamo",
+        "cityKanji": "加茂"
+    },
+    {
+        "no": "0810",
+        "cityRomaji": "Tokamachi",
+        "cityKanji": "十日町"
+    },
+    {
+        "no": "0811",
+        "cityRomaji": "Mitsuke",
+        "cityKanji": "見附"
+    },
+    {
+        "no": "0812",
+        "cityRomaji": "Murakami",
+        "cityKanji": "村上"
+    },
+    {
+        "no": "0813",
+        "cityRomaji": "Tsubame",
+        "cityKanji": "燕"
+    },
+    {
+        "no": "0816",
+        "cityRomaji": "Itoigawa",
+        "cityKanji": "糸魚川"
+    },
+    {
+        "no": "0818",
+        "cityRomaji": "Gosen",
+        "cityKanji": "五泉"
+    },
+    {
+        "no": "0822",
+        "cityRomaji": "Joetsu",
+        "cityKanji": "上越"
+    },
+    {
+        "no": "0823",
+        "cityRomaji": "Agano",
+        "cityKanji": "阿賀野"
+    },
+    {
+        "no": "0824",
+        "cityRomaji": "Sado",
+        "cityKanji": "佐渡"
+    },
+    {
+        "no": "0825",
+        "cityRomaji": "Uonuma",
+        "cityKanji": "魚沼"
+    },
+    {
+        "no": "0826",
+        "cityRomaji": "Minamiuonuma",
+        "cityKanji": "南魚沼"
+    },
+    {
+        "no": "0827",
+        "cityRomaji": "Myoko",
+        "cityKanji": "妙高"
+    },
+    {
+        "no": "0828",
+        "cityRomaji": "Tainai",
+        "cityKanji": "胎内"
+    },
+    {
+        "no": "0901",
+        "cityRomaji": "Nagano",
+        "cityKanji": "長野"
+    },
+    {
+        "no": "0902",
+        "cityRomaji": "Matsumoto",
+        "cityKanji": "松本"
+    },
+    {
+        "no": "0903",
+        "cityRomaji": "Ueda",
+        "cityKanji": "上田"
+    },
+    {
+        "no": "0904",
+        "cityRomaji": "Okaya",
+        "cityKanji": "岡谷"
+    },
+    {
+        "no": "0905",
+        "cityRomaji": "Iida",
+        "cityKanji": "飯田"
+    },
+    {
+        "no": "0906",
+        "cityRomaji": "Suwa",
+        "cityKanji": "諏訪"
+    },
+    {
+        "no": "0907",
+        "cityRomaji": "Suzaka",
+        "cityKanji": "須坂"
+    },
+    {
+        "no": "0908",
+        "cityRomaji": "Komoro",
+        "cityKanji": "小諸"
+    },
+    {
+        "no": "0909",
+        "cityRomaji": "Ina",
+        "cityKanji": "伊那"
+    },
+    {
+        "no": "0910",
+        "cityRomaji": "Komagane",
+        "cityKanji": "駒ヶ根"
+    },
+    {
+        "no": "0911",
+        "cityRomaji": "Nakano",
+        "cityKanji": "中野"
+    },
+    {
+        "no": "0912",
+        "cityRomaji": "Omachi",
+        "cityKanji": "大町"
+    },
+    {
+        "no": "0913",
+        "cityRomaji": "Iiyama",
+        "cityKanji": "飯山"
+    },
+    {
+        "no": "0914",
+        "cityRomaji": "Chino",
+        "cityKanji": "茅野"
+    },
+    {
+        "no": "0915",
+        "cityRomaji": "Shiojiri",
+        "cityKanji": "塩尻"
+    },
+    {
+        "no": "0918",
+        "cityRomaji": "Saku",
+        "cityKanji": "佐久"
+    },
+    {
+        "no": "0919",
+        "cityRomaji": "Chikuma",
+        "cityKanji": "千曲"
+    },
+    {
+        "no": "0920",
+        "cityRomaji": "Toumi",
+        "cityKanji": "東御"
+    },
+    {
+        "no": "0921",
+        "cityRomaji": "Azumino",
+        "cityKanji": "安曇野"
+    },
+    {
+        "no": "100101",
+        "cityRomaji": "Chiyoda",
+        "cityKanji": "千代田"
+    },
+    {
+        "no": "100102",
+        "cityRomaji": "Chuo",
+        "cityKanji": "中央"
+    },
+    {
+        "no": "100103",
+        "cityRomaji": "Minato",
+        "cityKanji": "港"
+    },
+    {
+        "no": "100104",
+        "cityRomaji": "Shinjuku",
+        "cityKanji": "新宿"
+    },
+    {
+        "no": "100105",
+        "cityRomaji": "Bunkyo",
+        "cityKanji": "文京"
+    },
+    {
+        "no": "100106",
+        "cityRomaji": "Taito",
+        "cityKanji": "台東"
+    },
+    {
+        "no": "100107",
+        "cityRomaji": "Sumida",
+        "cityKanji": "墨田"
+    },
+    {
+        "no": "100108",
+        "cityRomaji": "Koto",
+        "cityKanji": "江東"
+    },
+    {
+        "no": "100109",
+        "cityRomaji": "Shinagawa",
+        "cityKanji": "品川"
+    },
+    {
+        "no": "100110",
+        "cityRomaji": "Meguro",
+        "cityKanji": "目黒"
+    },
+    {
+        "no": "100111",
+        "cityRomaji": "Ota",
+        "cityKanji": "大田"
+    },
+    {
+        "no": "100112",
+        "cityRomaji": "Setagaya",
+        "cityKanji": "世田谷"
+    },
+    {
+        "no": "100113",
+        "cityRomaji": "Shibuya",
+        "cityKanji": "渋谷"
+    },
+    {
+        "no": "100114",
+        "cityRomaji": "Nakano",
+        "cityKanji": "中野"
+    },
+    {
+        "no": "100115",
+        "cityRomaji": "Suginami",
+        "cityKanji": "杉並"
+    },
+    {
+        "no": "100116",
+        "cityRomaji": "Toshima",
+        "cityKanji": "豊島"
+    },
+    {
+        "no": "100117",
+        "cityRomaji": "Kita",
+        "cityKanji": "北"
+    },
+    {
+        "no": "100118",
+        "cityRomaji": "Arakawa",
+        "cityKanji": "荒川"
+    },
+    {
+        "no": "100119",
+        "cityRomaji": "Itabashi",
+        "cityKanji": "板橋"
+    },
+    {
+        "no": "100120",
+        "cityRomaji": "Nerima",
+        "cityKanji": "練馬"
+    },
+    {
+        "no": "100121",
+        "cityRomaji": "Adachi",
+        "cityKanji": "足立"
+    },
+    {
+        "no": "100122",
+        "cityRomaji": "Katsushika",
+        "cityKanji": "葛飾"
+    },
+    {
+        "no": "100123",
+        "cityRomaji": "Edogawa",
+        "cityKanji": "江戸川"
+    },
+    {
+        "no": "1002",
+        "cityRomaji": "Hachioji",
+        "cityKanji": "八王子"
+    },
+    {
+        "no": "1003",
+        "cityRomaji": "Tachikawa",
+        "cityKanji": "立川"
+    },
+    {
+        "no": "1004",
+        "cityRomaji": "Musashino",
+        "cityKanji": "武蔵野"
+    },
+    {
+        "no": "1005",
+        "cityRomaji": "Mitaka",
+        "cityKanji": "三鷹"
+    },
+    {
+        "no": "1006",
+        "cityRomaji": "Ome",
+        "cityKanji": "青梅"
+    },
+    {
+        "no": "1007",
+        "cityRomaji": "Fuchu",
+        "cityKanji": "府中"
+    },
+    {
+        "no": "1008",
+        "cityRomaji": "Akishima",
+        "cityKanji": "昭島"
+    },
+    {
+        "no": "1009",
+        "cityRomaji": "Chofu",
+        "cityKanji": "調布"
+    },
+    {
+        "no": "1010",
+        "cityRomaji": "Machida",
+        "cityKanji": "町田"
+    },
+    {
+        "no": "1011",
+        "cityRomaji": "Koganei",
+        "cityKanji": "小金井"
+    },
+    {
+        "no": "1012",
+        "cityRomaji": "Kodaira",
+        "cityKanji": "小平"
+    },
+    {
+        "no": "1013",
+        "cityRomaji": "Hino",
+        "cityKanji": "日野"
+    },
+    {
+        "no": "1014",
+        "cityRomaji": "Higashimurayama",
+        "cityKanji": "東村山"
+    },
+    {
+        "no": "1015",
+        "cityRomaji": "Kokubunji",
+        "cityKanji": "国分寺"
+    },
+    {
+        "no": "1016",
+        "cityRomaji": "Kunitachi",
+        "cityKanji": "国立"
+    },
+    {
+        "no": "1019",
+        "cityRomaji": "Fussa",
+        "cityKanji": "福生"
+    },
+    {
+        "no": "1020",
+        "cityRomaji": "Komae",
+        "cityKanji": "狛江"
+    },
+    {
+        "no": "1021",
+        "cityRomaji": "Higashiyamato",
+        "cityKanji": "東大和"
+    },
+    {
+        "no": "1022",
+        "cityRomaji": "Kiyose",
+        "cityKanji": "清瀬"
+    },
+    {
+        "no": "1023",
+        "cityRomaji": "Higashikurume",
+        "cityKanji": "東久留米"
+    },
+    {
+        "no": "1024",
+        "cityRomaji": "Musashimurayama",
+        "cityKanji": "武蔵村山"
+    },
+    {
+        "no": "1025",
+        "cityRomaji": "Tama",
+        "cityKanji": "多摩"
+    },
+    {
+        "no": "1026",
+        "cityRomaji": "Inagi",
+        "cityKanji": "稲城"
+    },
+    {
+        "no": "1028",
+        "cityRomaji": "Hamura",
+        "cityKanji": "羽村"
+    },
+    {
+        "no": "1029",
+        "cityRomaji": "Akiruno",
+        "cityKanji": "あきる野"
+    },
+    {
+        "no": "1030",
+        "cityRomaji": "Nishitokyo",
+        "cityKanji": "西東京"
+    },
+    {
+        "no": "1101",
+        "cityRomaji": "Yokohama",
+        "cityKanji": "横浜"
+    },
+    {
+        "no": "1102",
+        "cityRomaji": "Yokosuka",
+        "cityKanji": "横須賀"
+    },
+    {
+        "no": "1103",
+        "cityRomaji": "Kawasaki",
+        "cityKanji": "川崎"
+    },
+    {
+        "no": "1104",
+        "cityRomaji": "Hiratsuka",
+        "cityKanji": "平塚"
+    },
+    {
+        "no": "1105",
+        "cityRomaji": "Kamakura",
+        "cityKanji": "鎌倉"
+    },
+    {
+        "no": "1106",
+        "cityRomaji": "Fujisawa",
+        "cityKanji": "藤沢"
+    },
+    {
+        "no": "1107",
+        "cityRomaji": "Odawara",
+        "cityKanji": "小田原"
+    },
+    {
+        "no": "1108",
+        "cityRomaji": "Chigasaki",
+        "cityKanji": "茅ヶ崎"
+    },
+    {
+        "no": "1109",
+        "cityRomaji": "Zushi",
+        "cityKanji": "逗子"
+    },
+    {
+        "no": "1110",
+        "cityRomaji": "Sagamihara",
+        "cityKanji": "相模原"
+    },
+    {
+        "no": "1111",
+        "cityRomaji": "Miura",
+        "cityKanji": "三浦"
+    },
+    {
+        "no": "1112",
+        "cityRomaji": "Hadano",
+        "cityKanji": "秦野"
+    },
+    {
+        "no": "1113",
+        "cityRomaji": "Atsugi",
+        "cityKanji": "厚木"
+    },
+    {
+        "no": "1114",
+        "cityRomaji": "Yamato",
+        "cityKanji": "大和"
+    },
+    {
+        "no": "1115",
+        "cityRomaji": "Isehara",
+        "cityKanji": "伊勢原"
+    },
+    {
+        "no": "1116",
+        "cityRomaji": "Ebina",
+        "cityKanji": "海老名"
+    },
+    {
+        "no": "1117",
+        "cityRomaji": "Zama",
+        "cityKanji": "座間"
+    },
+    {
+        "no": "1118",
+        "cityRomaji": "Minamiashigara",
+        "cityKanji": "南足柄"
+    },
+    {
+        "no": "1119",
+        "cityRomaji": "Ayase",
+        "cityKanji": "綾瀬"
+    },
+    {
+        "no": "1201",
+        "cityRomaji": "Chiba",
+        "cityKanji": "千葉"
+    },
+    {
+        "no": "1202",
+        "cityRomaji": "Choshi",
+        "cityKanji": "銚子"
+    },
+    {
+        "no": "1203",
+        "cityRomaji": "Ichikawa",
+        "cityKanji": "市川"
+    },
+    {
+        "no": "1204",
+        "cityRomaji": "Funabashi",
+        "cityKanji": "船橋"
+    },
+    {
+        "no": "1205",
+        "cityRomaji": "Tateyama",
+        "cityKanji": "館山"
+    },
+    {
+        "no": "1206",
+        "cityRomaji": "Kisarazu",
+        "cityKanji": "木更津"
+    },
+    {
+        "no": "1207",
+        "cityRomaji": "Matsudo",
+        "cityKanji": "松戸"
+    },
+    {
+        "no": "1208",
+        "cityRomaji": "Noda",
+        "cityKanji": "野田"
+    },
+    {
+        "no": "1210",
+        "cityRomaji": "Mobara",
+        "cityKanji": "茂原"
+    },
+    {
+        "no": "1211",
+        "cityRomaji": "Narita",
+        "cityKanji": "成田"
+    },
+    {
+        "no": "1212",
+        "cityRomaji": "Sakura",
+        "cityKanji": "佐倉"
+    },
+    {
+        "no": "1213",
+        "cityRomaji": "Togane",
+        "cityKanji": "東金"
+    },
+    {
+        "no": "1215",
+        "cityRomaji": "Asahi",
+        "cityKanji": "旭"
+    },
+    {
+        "no": "1216",
+        "cityRomaji": "Narashino",
+        "cityKanji": "習志野"
+    },
+    {
+        "no": "1217",
+        "cityRomaji": "Kashiwa",
+        "cityKanji": "柏"
+    },
+    {
+        "no": "1218",
+        "cityRomaji": "Katsuura",
+        "cityKanji": "勝浦"
+    },
+    {
+        "no": "1219",
+        "cityRomaji": "Ichihara",
+        "cityKanji": "市原"
+    },
+    {
+        "no": "1220",
+        "cityRomaji": "Nagareyama",
+        "cityKanji": "流山"
+    },
+    {
+        "no": "1221",
+        "cityRomaji": "Yachiyo",
+        "cityKanji": "八千代"
+    },
+    {
+        "no": "1222",
+        "cityRomaji": "Abiko",
+        "cityKanji": "我孫子"
+    },
+    {
+        "no": "1223",
+        "cityRomaji": "Kamogawa",
+        "cityKanji": "鴨川"
+    },
+    {
+        "no": "1224",
+        "cityRomaji": "Kimitsu",
+        "cityKanji": "君津"
+    },
+    {
+        "no": "1225",
+        "cityRomaji": "Kamagaya",
+        "cityKanji": "鎌ケ谷"
+    },
+    {
+        "no": "1226",
+        "cityRomaji": "Futtu",
+        "cityKanji": "富津"
+    },
+    {
+        "no": "1227",
+        "cityRomaji": "Urayasu",
+        "cityKanji": "浦安"
+    },
+    {
+        "no": "1228",
+        "cityRomaji": "Yotsukaido",
+        "cityKanji": "四街道"
+    },
+    {
+        "no": "1229",
+        "cityRomaji": "Sodegaura",
+        "cityKanji": "袖ケ浦"
+    },
+    {
+        "no": "1230",
+        "cityRomaji": "Yachimata",
+        "cityKanji": "八街"
+    },
+    {
+        "no": "1231",
+        "cityRomaji": "Inzai",
+        "cityKanji": "印西"
+    },
+    {
+        "no": "1232",
+        "cityRomaji": "Shiroi",
+        "cityKanji": "白井"
+    },
+    {
+        "no": "1233",
+        "cityRomaji": "Tomisato",
+        "cityKanji": "富里"
+    },
+    {
+        "no": "1234",
+        "cityRomaji": "Minamiboso",
+        "cityKanji": "南房総"
+    },
+    {
+        "no": "1235",
+        "cityRomaji": "Sosa",
+        "cityKanji": "匝瑳"
+    },
+    {
+        "no": "1236",
+        "cityRomaji": "Katori",
+        "cityKanji": "香取"
+    },
+    {
+        "no": "1237",
+        "cityRomaji": "Sanmu",
+        "cityKanji": "山武"
+    },
+    {
+        "no": "1238",
+        "cityRomaji": "Isumi",
+        "cityKanji": "いすみ"
+    },
+    {
+        "no": "1239",
+        "cityRomaji": "Oamishirasato",
+        "cityKanji": "大網白里"
+    },
+    {
+        "no": "1302",
+        "cityRomaji": "Kawagoe",
+        "cityKanji": "川越"
+    },
+    {
+        "no": "1303",
+        "cityRomaji": "Kumagaya",
+        "cityKanji": "熊谷"
+    },
+    {
+        "no": "1304",
+        "cityRomaji": "Kawaguchi",
+        "cityKanji": "川口"
+    },
+    {
+        "no": "1306",
+        "cityRomaji": "Gyoda",
+        "cityKanji": "行田"
+    },
+    {
+        "no": "1307",
+        "cityRomaji": "Chichibu",
+        "cityKanji": "秩父"
+    },
+    {
+        "no": "1308",
+        "cityRomaji": "Tokorozawa",
+        "cityKanji": "所沢"
+    },
+    {
+        "no": "1309",
+        "cityRomaji": "Hanno",
+        "cityKanji": "飯能"
+    },
+    {
+        "no": "1310",
+        "cityRomaji": "Kazo",
+        "cityKanji": "加須"
+    },
+    {
+        "no": "1311",
+        "cityRomaji": "Honjo",
+        "cityKanji": "本庄"
+    },
+    {
+        "no": "1312",
+        "cityRomaji": "Higashimatsuyama",
+        "cityKanji": "東松山"
+    },
+    {
+        "no": "1314",
+        "cityRomaji": "Kasukabe",
+        "cityKanji": "春日部"
+    },
+    {
+        "no": "1315",
+        "cityRomaji": "Sayama",
+        "cityKanji": "狭山"
+    },
+    {
+        "no": "1316",
+        "cityRomaji": "Hanyu",
+        "cityKanji": "羽生"
+    },
+    {
+        "no": "1317",
+        "cityRomaji": "Konosu",
+        "cityKanji": "鴻巣"
+    },
+    {
+        "no": "1318",
+        "cityRomaji": "Fukaya",
+        "cityKanji": "深谷"
+    },
+    {
+        "no": "1319",
+        "cityRomaji": "Ageo",
+        "cityKanji": "上尾"
+    },
+    {
+        "no": "1321",
+        "cityRomaji": "Soka",
+        "cityKanji": "草加"
+    },
+    {
+        "no": "1322",
+        "cityRomaji": "Koshigaya",
+        "cityKanji": "越谷"
+    },
+    {
+        "no": "1323",
+        "cityRomaji": "Warabi",
+        "cityKanji": "蕨"
+    },
+    {
+        "no": "1324",
+        "cityRomaji": "Toda",
+        "cityKanji": "戸田"
+    },
+    {
+        "no": "1325",
+        "cityRomaji": "Iruma",
+        "cityKanji": "入間"
+    },
+    {
+        "no": "1327",
+        "cityRomaji": "Asaka",
+        "cityKanji": "朝霞"
+    },
+    {
+        "no": "1328",
+        "cityRomaji": "Shiki",
+        "cityKanji": "志木"
+    },
+    {
+        "no": "1329",
+        "cityRomaji": "Wako",
+        "cityKanji": "和光"
+    },
+    {
+        "no": "1330",
+        "cityRomaji": "Niiza",
+        "cityKanji": "新座"
+    },
+    {
+        "no": "1331",
+        "cityRomaji": "Okegawa",
+        "cityKanji": "桶川"
+    },
+    {
+        "no": "1332",
+        "cityRomaji": "Kuki",
+        "cityKanji": "久喜"
+    },
+    {
+        "no": "1333",
+        "cityRomaji": "Kitamoto",
+        "cityKanji": "北本"
+    },
+    {
+        "no": "1334",
+        "cityRomaji": "Yashio",
+        "cityKanji": "八潮"
+    },
+    {
+        "no": "1336",
+        "cityRomaji": "Fujimi",
+        "cityKanji": "富士見"
+    },
+    {
+        "no": "1337",
+        "cityRomaji": "Misato",
+        "cityKanji": "三郷"
+    },
+    {
+        "no": "1338",
+        "cityRomaji": "Hasuda",
+        "cityKanji": "蓮田"
+    },
+    {
+        "no": "1339",
+        "cityRomaji": "Sakado",
+        "cityKanji": "坂戸"
+    },
+    {
+        "no": "1340",
+        "cityRomaji": "Satte",
+        "cityKanji": "幸手"
+    },
+    {
+        "no": "1341",
+        "cityRomaji": "Tsurugashima",
+        "cityKanji": "鶴ヶ島"
+    },
+    {
+        "no": "1342",
+        "cityRomaji": "Hidaka",
+        "cityKanji": "日高"
+    },
+    {
+        "no": "1343",
+        "cityRomaji": "Yoshikawa",
+        "cityKanji": "吉川"
+    },
+    {
+        "no": "1344",
+        "cityRomaji": "Saitama",
+        "cityKanji": "さいたま"
+    },
+    {
+        "no": "1345",
+        "cityRomaji": "Fujimino",
+        "cityKanji": "ふじみ野"
+    },
+    {
+        "no": "1346",
+        "cityRomaji": "Shiraoka",
+        "cityKanji": "白岡"
+    },
+    {
+        "no": "1401",
+        "cityRomaji": "Mito",
+        "cityKanji": "水戸"
+    },
+    {
+        "no": "1402",
+        "cityRomaji": "Hitachi",
+        "cityKanji": "日立"
+    },
+    {
+        "no": "1403",
+        "cityRomaji": "Tsuchiura",
+        "cityKanji": "土浦"
+    },
+    {
+        "no": "1404",
+        "cityRomaji": "Koga",
+        "cityKanji": "古河"
+    },
+    {
+        "no": "1405",
+        "cityRomaji": "Ishioka",
+        "cityKanji": "石岡"
+    },
+    {
+        "no": "1407",
+        "cityRomaji": "Yuki",
+        "cityKanji": "結城"
+    },
+    {
+        "no": "1408",
+        "cityRomaji": "Ryugasaki",
+        "cityKanji": "龍ケ崎"
+    },
+    {
+        "no": "1410",
+        "cityRomaji": "Shimotsuma",
+        "cityKanji": "下妻"
+    },
+    {
+        "no": "1412",
+        "cityRomaji": "Hitachiota",
+        "cityKanji": "常陸太田"
+    },
+    {
+        "no": "1414",
+        "cityRomaji": "Takahagi",
+        "cityKanji": "高萩"
+    },
+    {
+        "no": "1415",
+        "cityRomaji": "Kitaibaraki",
+        "cityKanji": "北茨城"
+    },
+    {
+        "no": "1416",
+        "cityRomaji": "Kasama",
+        "cityKanji": "笠間"
+    },
+    {
+        "no": "1417",
+        "cityRomaji": "Toride",
+        "cityKanji": "取手"
+    },
+    {
+        "no": "1419",
+        "cityRomaji": "Ushiku",
+        "cityKanji": "牛久"
+    },
+    {
+        "no": "1420",
+        "cityRomaji": "Tsukuba",
+        "cityKanji": "つくば"
+    },
+    {
+        "no": "1421",
+        "cityRomaji": "Hitachinaka",
+        "cityKanji": "ひたちなか"
+    },
+    {
+        "no": "1422",
+        "cityRomaji": "Kashima",
+        "cityKanji": "鹿嶋"
+    },
+    {
+        "no": "1423",
+        "cityRomaji": "Itako",
+        "cityKanji": "潮来"
+    },
+    {
+        "no": "1424",
+        "cityRomaji": "Moriya",
+        "cityKanji": "守谷"
+    },
+    {
+        "no": "1425",
+        "cityRomaji": "Hitachiomiya",
+        "cityKanji": "常陸大宮"
+    },
+    {
+        "no": "1426",
+        "cityRomaji": "Naka",
+        "cityKanji": "那珂"
+    },
+    {
+        "no": "1427",
+        "cityRomaji": "Chikusei",
+        "cityKanji": "筑西"
+    },
+    {
+        "no": "1428",
+        "cityRomaji": "Bandou",
+        "cityKanji": "坂東"
+    },
+    {
+        "no": "1429",
+        "cityRomaji": "Inashiki",
+        "cityKanji": "稲敷"
+    },
+    {
+        "no": "1430",
+        "cityRomaji": "Kasumigaura",
+        "cityKanji": "かすみがうら"
+    },
+    {
+        "no": "1431",
+        "cityRomaji": "Sakuragawa",
+        "cityKanji": "桜川"
+    },
+    {
+        "no": "1432",
+        "cityRomaji": "Kamisu",
+        "cityKanji": "神栖"
+    },
+    {
+        "no": "1433",
+        "cityRomaji": "Namegata",
+        "cityKanji": "行方"
+    },
+    {
+        "no": "1434",
+        "cityRomaji": "Hokota",
+        "cityKanji": "鉾田"
+    },
+    {
+        "no": "1435",
+        "cityRomaji": "Joso",
+        "cityKanji": "常総"
+    },
+    {
+        "no": "1436",
+        "cityRomaji": "Tsukubamirai",
+        "cityKanji": "つくばみらい"
+    },
+    {
+        "no": "1437",
+        "cityRomaji": "Omitama",
+        "cityKanji": "小美玉"
+    },
+    {
+        "no": "1501",
+        "cityRomaji": "Utsunomiya",
+        "cityKanji": "宇都宮"
+    },
+    {
+        "no": "1502",
+        "cityRomaji": "Ashikaga",
+        "cityKanji": "足利"
+    },
+    {
+        "no": "1503",
+        "cityRomaji": "Tochigi",
+        "cityKanji": "栃木"
+    },
+    {
+        "no": "1504",
+        "cityRomaji": "Sano",
+        "cityKanji": "佐野"
+    },
+    {
+        "no": "1505",
+        "cityRomaji": "Kanuma",
+        "cityKanji": "鹿沼"
+    },
+    {
+        "no": "1506",
+        "cityRomaji": "Nikko",
+        "cityKanji": "日光"
+    },
+    {
+        "no": "1508",
+        "cityRomaji": "Oyama",
+        "cityKanji": "小山"
+    },
+    {
+        "no": "1509",
+        "cityRomaji": "Mooka",
+        "cityKanji": "真岡"
+    },
+    {
+        "no": "1510",
+        "cityRomaji": "Otawara",
+        "cityKanji": "大田原"
+    },
+    {
+        "no": "1511",
+        "cityRomaji": "Yaita",
+        "cityKanji": "矢板"
+    },
+    {
+        "no": "1513",
+        "cityRomaji": "Nasushiobara",
+        "cityKanji": "那須塩原"
+    },
+    {
+        "no": "1514",
+        "cityRomaji": "Sakura",
+        "cityKanji": "さくら"
+    },
+    {
+        "no": "1515",
+        "cityRomaji": "Nasukarasuyama",
+        "cityKanji": "那須烏山"
+    },
+    {
+        "no": "1516",
+        "cityRomaji": "Shimotsuke",
+        "cityKanji": "下野"
+    },
+    {
+        "no": "1601",
+        "cityRomaji": "Maebashi",
+        "cityKanji": "前橋"
+    },
+    {
+        "no": "1602",
+        "cityRomaji": "Takasaki",
+        "cityKanji": "高崎"
+    },
+    {
+        "no": "1603",
+        "cityRomaji": "Kiryu",
+        "cityKanji": "桐生"
+    },
+    {
+        "no": "1604",
+        "cityRomaji": "Isesaki",
+        "cityKanji": "伊勢崎"
+    },
+    {
+        "no": "1605",
+        "cityRomaji": "Ota",
+        "cityKanji": "太田"
+    },
+    {
+        "no": "1606",
+        "cityRomaji": "Numata",
+        "cityKanji": "沼田"
+    },
+    {
+        "no": "1607",
+        "cityRomaji": "Tatebayashi",
+        "cityKanji": "館林"
+    },
+    {
+        "no": "1608",
+        "cityRomaji": "Shibukawa",
+        "cityKanji": "渋川"
+    },
+    {
+        "no": "1609",
+        "cityRomaji": "Fujioka",
+        "cityKanji": "藤岡"
+    },
+    {
+        "no": "1610",
+        "cityRomaji": "Tomioka",
+        "cityKanji": "富岡"
+    },
+    {
+        "no": "1611",
+        "cityRomaji": "Annaka",
+        "cityKanji": "安中"
+    },
+    {
+        "no": "1612",
+        "cityRomaji": "Midori",
+        "cityKanji": "みどり"
+    },
+    {
+        "no": "1701",
+        "cityRomaji": "Kofu",
+        "cityKanji": "甲府"
+    },
+    {
+        "no": "1702",
+        "cityRomaji": "Fujiyoshida",
+        "cityKanji": "富士吉田"
+    },
+    {
+        "no": "1704",
+        "cityRomaji": "Tsuru",
+        "cityKanji": "都留"
+    },
+    {
+        "no": "1705",
+        "cityRomaji": "Yamanashi",
+        "cityKanji": "山梨"
+    },
+    {
+        "no": "1706",
+        "cityRomaji": "Otsuki",
+        "cityKanji": "大月"
+    },
+    {
+        "no": "1707",
+        "cityRomaji": "Nirasaki",
+        "cityKanji": "韮崎"
+    },
+    {
+        "no": "1708",
+        "cityRomaji": "Minami-Alps",
+        "cityKanji": "南アルプス"
+    },
+    {
+        "no": "1709",
+        "cityRomaji": "Hokuto",
+        "cityKanji": "北杜"
+    },
+    {
+        "no": "1710",
+        "cityRomaji": "Kai",
+        "cityKanji": "甲斐"
+    },
+    {
+        "no": "1711",
+        "cityRomaji": "Fuefuki",
+        "cityKanji": "笛吹"
+    },
+    {
+        "no": "1712",
+        "cityRomaji": "Uenohara",
+        "cityKanji": "上野原"
+    },
+    {
+        "no": "1713",
+        "cityRomaji": "Koshu",
+        "cityKanji": "甲州"
+    },
+    {
+        "no": "1714",
+        "cityRomaji": "Chuo",
+        "cityKanji": "中央"
+    },
+    {
+        "no": "1801",
+        "cityRomaji": "Shizuoka",
+        "cityKanji": "静岡"
+    },
+    {
+        "no": "1802",
+        "cityRomaji": "Hamamatsu",
+        "cityKanji": "浜松"
+    },
+    {
+        "no": "1803",
+        "cityRomaji": "Numazu",
+        "cityKanji": "沼津"
+    },
+    {
+        "no": "1805",
+        "cityRomaji": "Atami",
+        "cityKanji": "熱海"
+    },
+    {
+        "no": "1806",
+        "cityRomaji": "Mishima",
+        "cityKanji": "三島"
+    },
+    {
+        "no": "1807",
+        "cityRomaji": "Fujinomiya",
+        "cityKanji": "富士宮"
+    },
+    {
+        "no": "1808",
+        "cityRomaji": "Ito",
+        "cityKanji": "伊東"
+    },
+    {
+        "no": "1809",
+        "cityRomaji": "Shimada",
+        "cityKanji": "島田"
+    },
+    {
+        "no": "1811",
+        "cityRomaji": "Iwata",
+        "cityKanji": "磐田"
+    },
+    {
+        "no": "1812",
+        "cityRomaji": "Yaizu",
+        "cityKanji": "焼津"
+    },
+    {
+        "no": "1813",
+        "cityRomaji": "Fuji",
+        "cityKanji": "富士"
+    },
+    {
+        "no": "1814",
+        "cityRomaji": "Kakegawa",
+        "cityKanji": "掛川"
+    },
+    {
+        "no": "1815",
+        "cityRomaji": "Fujieda",
+        "cityKanji": "藤枝"
+    },
+    {
+        "no": "1816",
+        "cityRomaji": "Gotemba",
+        "cityKanji": "御殿場"
+    },
+    {
+        "no": "1817",
+        "cityRomaji": "Fukuroi",
+        "cityKanji": "袋井"
+    },
+    {
+        "no": "1820",
+        "cityRomaji": "Shimoda",
+        "cityKanji": "下田"
+    },
+    {
+        "no": "1821",
+        "cityRomaji": "Susono",
+        "cityKanji": "裾野"
+    },
+    {
+        "no": "1822",
+        "cityRomaji": "Kosai",
+        "cityKanji": "湖西"
+    },
+    {
+        "no": "1823",
+        "cityRomaji": "Izu",
+        "cityKanji": "伊豆"
+    },
+    {
+        "no": "1824",
+        "cityRomaji": "Omaezaki",
+        "cityKanji": "御前崎"
+    },
+    {
+        "no": "1825",
+        "cityRomaji": "Kikugawa",
+        "cityKanji": "菊川"
+    },
+    {
+        "no": "1826",
+        "cityRomaji": "Izunokuni",
+        "cityKanji": "伊豆の国"
+    },
+    {
+        "no": "1827",
+        "cityRomaji": "Makinohara",
+        "cityKanji": "牧之原"
+    },
+    {
+        "no": "1901",
+        "cityRomaji": "Gifu",
+        "cityKanji": "岐阜"
+    },
+    {
+        "no": "1902",
+        "cityRomaji": "Ogaki",
+        "cityKanji": "大垣"
+    },
+    {
+        "no": "1903",
+        "cityRomaji": "Takayama",
+        "cityKanji": "高山"
+    },
+    {
+        "no": "1904",
+        "cityRomaji": "Tajimi",
+        "cityKanji": "多治見"
+    },
+    {
+        "no": "1905",
+        "cityRomaji": "Seki",
+        "cityKanji": "関"
+    },
+    {
+        "no": "1906",
+        "cityRomaji": "Nakatsugawa",
+        "cityKanji": "中津川"
+    },
+    {
+        "no": "1907",
+        "cityRomaji": "Mino",
+        "cityKanji": "美濃"
+    },
+    {
+        "no": "1908",
+        "cityRomaji": "Mizunami",
+        "cityKanji": "瑞浪"
+    },
+    {
+        "no": "1909",
+        "cityRomaji": "Hashima",
+        "cityKanji": "羽島"
+    },
+    {
+        "no": "1910",
+        "cityRomaji": "Ena",
+        "cityKanji": "恵那"
+    },
+    {
+        "no": "1911",
+        "cityRomaji": "Minokamo",
+        "cityKanji": "美濃加茂"
+    },
+    {
+        "no": "1912",
+        "cityRomaji": "Toki",
+        "cityKanji": "土岐"
+    },
+    {
+        "no": "1913",
+        "cityRomaji": "Kakamigahara",
+        "cityKanji": "各務原"
+    },
+    {
+        "no": "1914",
+        "cityRomaji": "Kani",
+        "cityKanji": "可児"
+    },
+    {
+        "no": "1915",
+        "cityRomaji": "Yamagata",
+        "cityKanji": "山県"
+    },
+    {
+        "no": "1916",
+        "cityRomaji": "Mizuho",
+        "cityKanji": "瑞穂"
+    },
+    {
+        "no": "1917",
+        "cityRomaji": "Hida",
+        "cityKanji": "飛騨"
+    },
+    {
+        "no": "1918",
+        "cityRomaji": "Motosu",
+        "cityKanji": "本巣"
+    },
+    {
+        "no": "1919",
+        "cityRomaji": "Gujo",
+        "cityKanji": "郡上"
+    },
+    {
+        "no": "1920",
+        "cityRomaji": "Gero",
+        "cityKanji": "下呂"
+    },
+    {
+        "no": "1921",
+        "cityRomaji": "Kaizu",
+        "cityKanji": "海津"
+    },
+    {
+        "no": "2001",
+        "cityRomaji": "Nagoya",
+        "cityKanji": "名古屋"
+    },
+    {
+        "no": "2002",
+        "cityRomaji": "Toyohashi",
+        "cityKanji": "豊橋"
+    },
+    {
+        "no": "2003",
+        "cityRomaji": "Okazaki",
+        "cityKanji": "岡崎"
+    },
+    {
+        "no": "2004",
+        "cityRomaji": "Ichinomiya",
+        "cityKanji": "一宮"
+    },
+    {
+        "no": "2005",
+        "cityRomaji": "Seto",
+        "cityKanji": "瀬戸"
+    },
+    {
+        "no": "2006",
+        "cityRomaji": "Handa",
+        "cityKanji": "半田"
+    },
+    {
+        "no": "2007",
+        "cityRomaji": "Kasugai",
+        "cityKanji": "春日井"
+    },
+    {
+        "no": "2008",
+        "cityRomaji": "Toyokawa",
+        "cityKanji": "豊川"
+    },
+    {
+        "no": "2009",
+        "cityRomaji": "Tsushima",
+        "cityKanji": "津島"
+    },
+    {
+        "no": "2010",
+        "cityRomaji": "Hekinan",
+        "cityKanji": "碧南"
+    },
+    {
+        "no": "2011",
+        "cityRomaji": "Kariya",
+        "cityKanji": "刈谷"
+    },
+    {
+        "no": "2012",
+        "cityRomaji": "Toyota",
+        "cityKanji": "豊田"
+    },
+    {
+        "no": "2013",
+        "cityRomaji": "Anjo",
+        "cityKanji": "安城"
+    },
+    {
+        "no": "2014",
+        "cityRomaji": "Nishio",
+        "cityKanji": "西尾"
+    },
+    {
+        "no": "2015",
+        "cityRomaji": "Gamagori",
+        "cityKanji": "蒲郡"
+    },
+    {
+        "no": "2016",
+        "cityRomaji": "Inuyama",
+        "cityKanji": "犬山"
+    },
+    {
+        "no": "2017",
+        "cityRomaji": "Tokoname",
+        "cityKanji": "常滑"
+    },
+    {
+        "no": "2019",
+        "cityRomaji": "Konan",
+        "cityKanji": "江南"
+    },
+    {
+        "no": "2021",
+        "cityRomaji": "Komaki",
+        "cityKanji": "小牧"
+    },
+    {
+        "no": "2022",
+        "cityRomaji": "Inazawa",
+        "cityKanji": "稲沢"
+    },
+    {
+        "no": "2023",
+        "cityRomaji": "Shinshiro",
+        "cityKanji": "新城"
+    },
+    {
+        "no": "2024",
+        "cityRomaji": "Tokai",
+        "cityKanji": "東海"
+    },
+    {
+        "no": "2025",
+        "cityRomaji": "Obu",
+        "cityKanji": "大府"
+    },
+    {
+        "no": "2026",
+        "cityRomaji": "Chita",
+        "cityKanji": "知多"
+    },
+    {
+        "no": "2027",
+        "cityRomaji": "Takahama",
+        "cityKanji": "高浜"
+    },
+    {
+        "no": "2028",
+        "cityRomaji": "Chiryu",
+        "cityKanji": "知立"
+    },
+    {
+        "no": "2029",
+        "cityRomaji": "Owariasahi",
+        "cityKanji": "尾張旭"
+    },
+    {
+        "no": "2030",
+        "cityRomaji": "Iwakura",
+        "cityKanji": "岩倉"
+    },
+    {
+        "no": "2031",
+        "cityRomaji": "Toyoake",
+        "cityKanji": "豊明"
+    },
+    {
+        "no": "2032",
+        "cityRomaji": "Nissin",
+        "cityKanji": "日進"
+    },
+    {
+        "no": "2033",
+        "cityRomaji": "Tahara",
+        "cityKanji": "田原"
+    },
+    {
+        "no": "2034",
+        "cityRomaji": "Aisai",
+        "cityKanji": "愛西"
+    },
+    {
+        "no": "2035",
+        "cityRomaji": "Kiyosu",
+        "cityKanji": "清須"
+    },
+    {
+        "no": "2036",
+        "cityRomaji": "Kitanagoya",
+        "cityKanji": "北名古屋"
+    },
+    {
+        "no": "2037",
+        "cityRomaji": "Yatomi",
+        "cityKanji": "弥富"
+    },
+    {
+        "no": "2038",
+        "cityRomaji": "Miyoshi",
+        "cityKanji": "みよし"
+    },
+    {
+        "no": "2039",
+        "cityRomaji": "Ama",
+        "cityKanji": "あま"
+    },
+    {
+        "no": "2040",
+        "cityRomaji": "Nagakute",
+        "cityKanji": "長久手"
+    },
+    {
+        "no": "2101",
+        "cityRomaji": "Tsu",
+        "cityKanji": "津"
+    },
+    {
+        "no": "2102",
+        "cityRomaji": "Yokkaichi",
+        "cityKanji": "四日市"
+    },
+    {
+        "no": "2103",
+        "cityRomaji": "Ise",
+        "cityKanji": "伊勢"
+    },
+    {
+        "no": "2104",
+        "cityRomaji": "Matsusaka",
+        "cityKanji": "松阪"
+    },
+    {
+        "no": "2105",
+        "cityRomaji": "Kuwana",
+        "cityKanji": "桑名"
+    },
+    {
+        "no": "2107",
+        "cityRomaji": "Suzuka",
+        "cityKanji": "鈴鹿"
+    },
+    {
+        "no": "2108",
+        "cityRomaji": "Nabari",
+        "cityKanji": "名張"
+    },
+    {
+        "no": "2109",
+        "cityRomaji": "Owase",
+        "cityKanji": "尾鷲"
+    },
+    {
+        "no": "2110",
+        "cityRomaji": "Kameyama",
+        "cityKanji": "亀山"
+    },
+    {
+        "no": "2111",
+        "cityRomaji": "Toba",
+        "cityKanji": "鳥羽"
+    },
+    {
+        "no": "2112",
+        "cityRomaji": "Kumano",
+        "cityKanji": "熊野"
+    },
+    {
+        "no": "2115",
+        "cityRomaji": "Inabe",
+        "cityKanji": "いなべ"
+    },
+    {
+        "no": "2116",
+        "cityRomaji": "Shima",
+        "cityKanji": "志摩"
+    },
+    {
+        "no": "2117",
+        "cityRomaji": "Iga",
+        "cityKanji": "伊賀"
+    },
+    {
+        "no": "2201",
+        "cityRomaji": "Kyoto",
+        "cityKanji": "京都"
+    },
+    {
+        "no": "2202",
+        "cityRomaji": "Fukuchiyama",
+        "cityKanji": "福知山"
+    },
+    {
+        "no": "2203",
+        "cityRomaji": "Maizuru",
+        "cityKanji": "舞鶴"
+    },
+    {
+        "no": "2204",
+        "cityRomaji": "Ayabe",
+        "cityKanji": "綾部"
+    },
+    {
+        "no": "2205",
+        "cityRomaji": "Uji",
+        "cityKanji": "宇治"
+    },
+    {
+        "no": "2206",
+        "cityRomaji": "Miyazu",
+        "cityKanji": "宮津"
+    },
+    {
+        "no": "2207",
+        "cityRomaji": "Kameoka",
+        "cityKanji": "亀岡"
+    },
+    {
+        "no": "2208",
+        "cityRomaji": "Joyo",
+        "cityKanji": "城陽"
+    },
+    {
+        "no": "2209",
+        "cityRomaji": "Nagaokakyo",
+        "cityKanji": "長岡京"
+    },
+    {
+        "no": "2210",
+        "cityRomaji": "Muko",
+        "cityKanji": "向日"
+    },
+    {
+        "no": "2211",
+        "cityRomaji": "Yawata",
+        "cityKanji": "八幡"
+    },
+    {
+        "no": "2212",
+        "cityRomaji": "Kyotanabe",
+        "cityKanji": "京田辺"
+    },
+    {
+        "no": "2213",
+        "cityRomaji": "Kyotango",
+        "cityKanji": "京丹後"
+    },
+    {
+        "no": "2214",
+        "cityRomaji": "Nantan",
+        "cityKanji": "南丹"
+    },
+    {
+        "no": "2215",
+        "cityRomaji": "Kizugawa",
+        "cityKanji": "木津川"
+    },
+    {
+        "no": "2301",
+        "cityRomaji": "Otsu",
+        "cityKanji": "大津"
+    },
+    {
+        "no": "2302",
+        "cityRomaji": "Hikone",
+        "cityKanji": "彦根"
+    },
+    {
+        "no": "2303",
+        "cityRomaji": "Nagahama",
+        "cityKanji": "長浜"
+    },
+    {
+        "no": "2304",
+        "cityRomaji": "Omihachiman",
+        "cityKanji": "近江八幡"
+    },
+    {
+        "no": "2306",
+        "cityRomaji": "Kusatsu",
+        "cityKanji": "草津"
+    },
+    {
+        "no": "2307",
+        "cityRomaji": "Moriyama",
+        "cityKanji": "守山"
+    },
+    {
+        "no": "2308",
+        "cityRomaji": "Ritto",
+        "cityKanji": "栗東"
+    },
+    {
+        "no": "2309",
+        "cityRomaji": "Koka",
+        "cityKanji": "甲賀"
+    },
+    {
+        "no": "2310",
+        "cityRomaji": "Yasu",
+        "cityKanji": "野洲"
+    },
+    {
+        "no": "2311",
+        "cityRomaji": "Konan",
+        "cityKanji": "湖南"
+    },
+    {
+        "no": "2312",
+        "cityRomaji": "Takashima",
+        "cityKanji": "高島"
+    },
+    {
+        "no": "2313",
+        "cityRomaji": "Higashioumi",
+        "cityKanji": "東近江"
+    },
+    {
+        "no": "2314",
+        "cityRomaji": "Maibara",
+        "cityKanji": "米原"
+    },
+    {
+        "no": "2401",
+        "cityRomaji": "Nara",
+        "cityKanji": "奈良"
+    },
+    {
+        "no": "2402",
+        "cityRomaji": "Yamatotakada",
+        "cityKanji": "大和高田"
+    },
+    {
+        "no": "2403",
+        "cityRomaji": "Yamatokoriyama",
+        "cityKanji": "大和郡山"
+    },
+    {
+        "no": "2404",
+        "cityRomaji": "Tenri",
+        "cityKanji": "天理"
+    },
+    {
+        "no": "2405",
+        "cityRomaji": "Kashihara",
+        "cityKanji": "橿原"
+    },
+    {
+        "no": "2406",
+        "cityRomaji": "Sakurai",
+        "cityKanji": "桜井"
+    },
+    {
+        "no": "2407",
+        "cityRomaji": "Gojo",
+        "cityKanji": "五條"
+    },
+    {
+        "no": "2408",
+        "cityRomaji": "Gose",
+        "cityKanji": "御所"
+    },
+    {
+        "no": "2409",
+        "cityRomaji": "Ikoma",
+        "cityKanji": "生駒"
+    },
+    {
+        "no": "2410",
+        "cityRomaji": "Kashiba",
+        "cityKanji": "香芝"
+    },
+    {
+        "no": "2411",
+        "cityRomaji": "Katsuragi",
+        "cityKanji": "葛城"
+    },
+    {
+        "no": "2412",
+        "cityRomaji": "Uda",
+        "cityKanji": "宇陀"
+    },
+    {
+        "no": "2501",
+        "cityRomaji": "Osaka",
+        "cityKanji": "大阪"
+    },
+    {
+        "no": "2502",
+        "cityRomaji": "Sakai",
+        "cityKanji": "堺"
+    },
+    {
+        "no": "2503",
+        "cityRomaji": "Kishiwada",
+        "cityKanji": "岸和田"
+    },
+    {
+        "no": "2504",
+        "cityRomaji": "Toyonaka",
+        "cityKanji": "豊中"
+    },
+    {
+        "no": "2506",
+        "cityRomaji": "Ikeda",
+        "cityKanji": "池田"
+    },
+    {
+        "no": "2507",
+        "cityRomaji": "Suita",
+        "cityKanji": "吹田"
+    },
+    {
+        "no": "2508",
+        "cityRomaji": "Izumiotsu",
+        "cityKanji": "泉大津"
+    },
+    {
+        "no": "2509",
+        "cityRomaji": "Takatsuki",
+        "cityKanji": "高槻"
+    },
+    {
+        "no": "2510",
+        "cityRomaji": "Kaizuka",
+        "cityKanji": "貝塚"
+    },
+    {
+        "no": "2511",
+        "cityRomaji": "Moriguchi",
+        "cityKanji": "守口"
+    },
+    {
+        "no": "2512",
+        "cityRomaji": "Hirakata",
+        "cityKanji": "枚方"
+    },
+    {
+        "no": "2513",
+        "cityRomaji": "Ibaraki",
+        "cityKanji": "茨木"
+    },
+    {
+        "no": "2514",
+        "cityRomaji": "Yao",
+        "cityKanji": "八尾"
+    },
+    {
+        "no": "2515",
+        "cityRomaji": "Izumisano",
+        "cityKanji": "泉佐野"
+    },
+    {
+        "no": "2516",
+        "cityRomaji": "Tondabayashi",
+        "cityKanji": "富田林"
+    },
+    {
+        "no": "2517",
+        "cityRomaji": "Neyagawa",
+        "cityKanji": "寝屋川"
+    },
+    {
+        "no": "2518",
+        "cityRomaji": "Kawachinagano",
+        "cityKanji": "河内長野"
+    },
+    {
+        "no": "2521",
+        "cityRomaji": "Matsubara",
+        "cityKanji": "松原"
+    },
+    {
+        "no": "2522",
+        "cityRomaji": "Daito",
+        "cityKanji": "大東"
+    },
+    {
+        "no": "2523",
+        "cityRomaji": "Izumi",
+        "cityKanji": "和泉"
+    },
+    {
+        "no": "2524",
+        "cityRomaji": "Mino",
+        "cityKanji": "箕面"
+    },
+    {
+        "no": "2525",
+        "cityRomaji": "Kashiwara",
+        "cityKanji": "柏原"
+    },
+    {
+        "no": "2526",
+        "cityRomaji": "Habikino",
+        "cityKanji": "羽曳野"
+    },
+    {
+        "no": "2527",
+        "cityRomaji": "Kadoma",
+        "cityKanji": "門真"
+    },
+    {
+        "no": "2528",
+        "cityRomaji": "Settsu",
+        "cityKanji": "摂津"
+    },
+    {
+        "no": "2529",
+        "cityRomaji": "Fujiidera",
+        "cityKanji": "藤井寺"
+    },
+    {
+        "no": "2530",
+        "cityRomaji": "Takaishi",
+        "cityKanji": "高石"
+    },
+    {
+        "no": "2531",
+        "cityRomaji": "Higashiosaka",
+        "cityKanji": "東大阪"
+    },
+    {
+        "no": "2532",
+        "cityRomaji": "Sennan",
+        "cityKanji": "泉南"
+    },
+    {
+        "no": "2533",
+        "cityRomaji": "Shijonawate",
+        "cityKanji": "四條畷"
+    },
+    {
+        "no": "2534",
+        "cityRomaji": "Katano",
+        "cityKanji": "交野"
+    },
+    {
+        "no": "2535",
+        "cityRomaji": "Osakasayama",
+        "cityKanji": "大阪狭山"
+    },
+    {
+        "no": "2536",
+        "cityRomaji": "Hannan",
+        "cityKanji": "阪南"
+    },
+    {
+        "no": "2601",
+        "cityRomaji": "Wakayama",
+        "cityKanji": "和歌山"
+    },
+    {
+        "no": "2602",
+        "cityRomaji": "Shingu",
+        "cityKanji": "新宮"
+    },
+    {
+        "no": "2603",
+        "cityRomaji": "Kainan",
+        "cityKanji": "海南"
+    },
+    {
+        "no": "2604",
+        "cityRomaji": "Tanabe",
+        "cityKanji": "田辺"
+    },
+    {
+        "no": "2605",
+        "cityRomaji": "Gobo",
+        "cityKanji": "御坊"
+    },
+    {
+        "no": "2606",
+        "cityRomaji": "Hashimoto",
+        "cityKanji": "橋本"
+    },
+    {
+        "no": "2607",
+        "cityRomaji": "Arida",
+        "cityKanji": "有田"
+    },
+    {
+        "no": "2608",
+        "cityRomaji": "Kinokawa",
+        "cityKanji": "紀の川"
+    },
+    {
+        "no": "2609",
+        "cityRomaji": "Iwade",
+        "cityKanji": "岩出"
+    },
+    {
+        "no": "2701",
+        "cityRomaji": "Kobe",
+        "cityKanji": "神戸"
+    },
+    {
+        "no": "2702",
+        "cityRomaji": "Himeji",
+        "cityKanji": "姫路"
+    },
+    {
+        "no": "2703",
+        "cityRomaji": "Amagasaki",
+        "cityKanji": "尼崎"
+    },
+    {
+        "no": "2704",
+        "cityRomaji": "Akashi",
+        "cityKanji": "明石"
+    },
+    {
+        "no": "2705",
+        "cityRomaji": "Nishinomiya",
+        "cityKanji": "西宮"
+    },
+    {
+        "no": "2706",
+        "cityRomaji": "Sumoto",
+        "cityKanji": "洲本"
+    },
+    {
+        "no": "2707",
+        "cityRomaji": "Ashiya",
+        "cityKanji": "芦屋"
+    },
+    {
+        "no": "2708",
+        "cityRomaji": "Itami",
+        "cityKanji": "伊丹"
+    },
+    {
+        "no": "2709",
+        "cityRomaji": "Aioi",
+        "cityKanji": "相生"
+    },
+    {
+        "no": "2710",
+        "cityRomaji": "Toyooka",
+        "cityKanji": "豊岡"
+    },
+    {
+        "no": "2711",
+        "cityRomaji": "Kakogawa",
+        "cityKanji": "加古川"
+    },
+    {
+        "no": "2713",
+        "cityRomaji": "Ako",
+        "cityKanji": "赤穂"
+    },
+    {
+        "no": "2714",
+        "cityRomaji": "Nishiwaki",
+        "cityKanji": "西脇"
+    },
+    {
+        "no": "2715",
+        "cityRomaji": "Takarazuka",
+        "cityKanji": "宝塚"
+    },
+    {
+        "no": "2716",
+        "cityRomaji": "Miki",
+        "cityKanji": "三木"
+    },
+    {
+        "no": "2717",
+        "cityRomaji": "Takasago",
+        "cityKanji": "高砂"
+    },
+    {
+        "no": "2718",
+        "cityRomaji": "Kawanishi",
+        "cityKanji": "川西"
+    },
+    {
+        "no": "2719",
+        "cityRomaji": "Ono",
+        "cityKanji": "小野"
+    },
+    {
+        "no": "2720",
+        "cityRomaji": "Sanda",
+        "cityKanji": "三田"
+    },
+    {
+        "no": "2721",
+        "cityRomaji": "Kasai",
+        "cityKanji": "加西"
+    },
+    {
+        "no": "2723",
+        "cityRomaji": "Yabu",
+        "cityKanji": "養父"
+    },
+    {
+        "no": "2724",
+        "cityRomaji": "Tanba",
+        "cityKanji": "丹波"
+    },
+    {
+        "no": "2725",
+        "cityRomaji": "Minamiawaji",
+        "cityKanji": "南あわじ"
+    },
+    {
+        "no": "2726",
+        "cityRomaji": "Asago",
+        "cityKanji": "朝来"
+    },
+    {
+        "no": "2727",
+        "cityRomaji": "Awaji",
+        "cityKanji": "淡路"
+    },
+    {
+        "no": "2728",
+        "cityRomaji": "Shiso",
+        "cityKanji": "宍粟"
+    },
+    {
+        "no": "2729",
+        "cityRomaji": "Kato",
+        "cityKanji": "加東"
+    },
+    {
+        "no": "2730",
+        "cityRomaji": "Tatsuno",
+        "cityKanji": "たつの"
+    },
+    {
+        "no": "2731",
+        "cityRomaji": "Tanbasasayama",
+        "cityKanji": "丹波篠山"
+    },
+    {
+        "no": "2801",
+        "cityRomaji": "Toyama",
+        "cityKanji": "富山"
+    },
+    {
+        "no": "2802",
+        "cityRomaji": "Takaoka",
+        "cityKanji": "高岡"
+    },
+    {
+        "no": "2804",
+        "cityRomaji": "Uozu",
+        "cityKanji": "魚津"
+    },
+    {
+        "no": "2805",
+        "cityRomaji": "Himi",
+        "cityKanji": "氷見"
+    },
+    {
+        "no": "2806",
+        "cityRomaji": "Namerikawa",
+        "cityKanji": "滑川"
+    },
+    {
+        "no": "2807",
+        "cityRomaji": "Kurobe",
+        "cityKanji": "黒部"
+    },
+    {
+        "no": "2808",
+        "cityRomaji": "Tonami",
+        "cityKanji": "砺波"
+    },
+    {
+        "no": "2809",
+        "cityRomaji": "Oyabe",
+        "cityKanji": "小矢部"
+    },
+    {
+        "no": "2810",
+        "cityRomaji": "Nanto",
+        "cityKanji": "南砺"
+    },
+    {
+        "no": "2811",
+        "cityRomaji": "Imizu",
+        "cityKanji": "射水"
+    },
+    {
+        "no": "2901",
+        "cityRomaji": "Fukui",
+        "cityKanji": "福井"
+    },
+    {
+        "no": "2902",
+        "cityRomaji": "Tsuruga",
+        "cityKanji": "敦賀"
+    },
+    {
+        "no": "2904",
+        "cityRomaji": "Obama",
+        "cityKanji": "小浜"
+    },
+    {
+        "no": "2905",
+        "cityRomaji": "Ono",
+        "cityKanji": "大野"
+    },
+    {
+        "no": "2906",
+        "cityRomaji": "Katsuyama",
+        "cityKanji": "勝山"
+    },
+    {
+        "no": "2907",
+        "cityRomaji": "Sabae",
+        "cityKanji": "鯖江"
+    },
+    {
+        "no": "2908",
+        "cityRomaji": "Awara",
+        "cityKanji": "あわら"
+    },
+    {
+        "no": "2909",
+        "cityRomaji": "Echizen",
+        "cityKanji": "越前"
+    },
+    {
+        "no": "2910",
+        "cityRomaji": "Sakai",
+        "cityKanji": "坂井"
+    },
+    {
+        "no": "3001",
+        "cityRomaji": "Kanazawa",
+        "cityKanji": "金沢"
+    },
+    {
+        "no": "3002",
+        "cityRomaji": "Nanao",
+        "cityKanji": "七尾"
+    },
+    {
+        "no": "3003",
+        "cityRomaji": "Komatsu",
+        "cityKanji": "小松"
+    },
+    {
+        "no": "3004",
+        "cityRomaji": "Wajima",
+        "cityKanji": "輪島"
+    },
+    {
+        "no": "3005",
+        "cityRomaji": "Suzu",
+        "cityKanji": "珠洲"
+    },
+    {
+        "no": "3006",
+        "cityRomaji": "Kaga",
+        "cityKanji": "加賀"
+    },
+    {
+        "no": "3007",
+        "cityRomaji": "Hakui",
+        "cityKanji": "羽咋"
+    },
+    {
+        "no": "3009",
+        "cityRomaji": "Kahoku",
+        "cityKanji": "かほく"
+    },
+    {
+        "no": "3010",
+        "cityRomaji": "Hakusan",
+        "cityKanji": "白山"
+    },
+    {
+        "no": "3011",
+        "cityRomaji": "Nomi",
+        "cityKanji": "能美"
+    },
+    {
+        "no": "3012",
+        "cityRomaji": "Nonoichi",
+        "cityKanji": "野々市"
+    },
+    {
+        "no": "3101",
+        "cityRomaji": "Okayama",
+        "cityKanji": "岡山"
+    },
+    {
+        "no": "3102",
+        "cityRomaji": "Kurashiki",
+        "cityKanji": "倉敷"
+    },
+    {
+        "no": "3103",
+        "cityRomaji": "Tsuyama",
+        "cityKanji": "津山"
+    },
+    {
+        "no": "3104",
+        "cityRomaji": "Tamano",
+        "cityKanji": "玉野"
+    },
+    {
+        "no": "3107",
+        "cityRomaji": "Kasaoka",
+        "cityKanji": "笠岡"
+    },
+    {
+        "no": "3109",
+        "cityRomaji": "Ibara",
+        "cityKanji": "井原"
+    },
+    {
+        "no": "3110",
+        "cityRomaji": "Soja",
+        "cityKanji": "総社"
+    },
+    {
+        "no": "3111",
+        "cityRomaji": "Takahashi",
+        "cityKanji": "高梁"
+    },
+    {
+        "no": "3112",
+        "cityRomaji": "Niimi",
+        "cityKanji": "新見"
+    },
+    {
+        "no": "3113",
+        "cityRomaji": "Bizen",
+        "cityKanji": "備前"
+    },
+    {
+        "no": "3114",
+        "cityRomaji": "Setouchi",
+        "cityKanji": "瀬戸内"
+    },
+    {
+        "no": "3115",
+        "cityRomaji": "Akaiwa",
+        "cityKanji": "赤磐"
+    },
+    {
+        "no": "3116",
+        "cityRomaji": "Maniwa",
+        "cityKanji": "真庭"
+    },
+    {
+        "no": "3117",
+        "cityRomaji": "Mimasaka",
+        "cityKanji": "美作"
+    },
+    {
+        "no": "3118",
+        "cityRomaji": "Asakuchi",
+        "cityKanji": "浅口"
+    },
+    {
+        "no": "3201",
+        "cityRomaji": "Matsue",
+        "cityKanji": "松江"
+    },
+    {
+        "no": "3202",
+        "cityRomaji": "Hamada",
+        "cityKanji": "浜田"
+    },
+    {
+        "no": "3203",
+        "cityRomaji": "Izumo",
+        "cityKanji": "出雲"
+    },
+    {
+        "no": "3204",
+        "cityRomaji": "Masuda",
+        "cityKanji": "益田"
+    },
+    {
+        "no": "3205",
+        "cityRomaji": "Oda",
+        "cityKanji": "大田"
+    },
+    {
+        "no": "3206",
+        "cityRomaji": "Yasugi",
+        "cityKanji": "安来"
+    },
+    {
+        "no": "3207",
+        "cityRomaji": "Gotsu",
+        "cityKanji": "江津"
+    },
+    {
+        "no": "3209",
+        "cityRomaji": "Unnan",
+        "cityKanji": "雲南"
+    },
+    {
+        "no": "3301",
+        "cityRomaji": "Yamaguchi",
+        "cityKanji": "山口"
+    },
+    {
+        "no": "3302",
+        "cityRomaji": "Shimonoseki",
+        "cityKanji": "下関"
+    },
+    {
+        "no": "3303",
+        "cityRomaji": "Ube",
+        "cityKanji": "宇部"
+    },
+    {
+        "no": "3304",
+        "cityRomaji": "Hagi",
+        "cityKanji": "萩"
+    },
+    {
+        "no": "3306",
+        "cityRomaji": "Hofu",
+        "cityKanji": "防府"
+    },
+    {
+        "no": "3307",
+        "cityRomaji": "Kudamatsu",
+        "cityKanji": "下松"
+    },
+    {
+        "no": "3308",
+        "cityRomaji": "Iwakuni",
+        "cityKanji": "岩国"
+    },
+    {
+        "no": "3310",
+        "cityRomaji": "Hikari",
+        "cityKanji": "光"
+    },
+    {
+        "no": "3311",
+        "cityRomaji": "Nagato",
+        "cityKanji": "長門"
+    },
+    {
+        "no": "3312",
+        "cityRomaji": "Yanai",
+        "cityKanji": "柳井"
+    },
+    {
+        "no": "3313",
+        "cityRomaji": "Mine",
+        "cityKanji": "美祢"
+    },
+    {
+        "no": "3315",
+        "cityRomaji": "Shunan",
+        "cityKanji": "周南"
+    },
+    {
+        "no": "3316",
+        "cityRomaji": "San'yoonoda",
+        "cityKanji": "山陽小野田"
+    },
+    {
+        "no": "3401",
+        "cityRomaji": "Tottori",
+        "cityKanji": "鳥取"
+    },
+    {
+        "no": "3402",
+        "cityRomaji": "Kurayoshi",
+        "cityKanji": "倉吉"
+    },
+    {
+        "no": "3403",
+        "cityRomaji": "Yonago",
+        "cityKanji": "米子"
+    },
+    {
+        "no": "3404",
+        "cityRomaji": "Sakaiminato",
+        "cityKanji": "境港"
+    },
+    {
+        "no": "3501",
+        "cityRomaji": "Hiroshima",
+        "cityKanji": "広島"
+    },
+    {
+        "no": "3502",
+        "cityRomaji": "Kure",
+        "cityKanji": "呉"
+    },
+    {
+        "no": "3503",
+        "cityRomaji": "Takehara",
+        "cityKanji": "竹原"
+    },
+    {
+        "no": "3504",
+        "cityRomaji": "Mihara",
+        "cityKanji": "三原"
+    },
+    {
+        "no": "3505",
+        "cityRomaji": "Onomichi",
+        "cityKanji": "尾道"
+    },
+    {
+        "no": "3508",
+        "cityRomaji": "Fukuyama",
+        "cityKanji": "福山"
+    },
+    {
+        "no": "3509",
+        "cityRomaji": "Fuchu",
+        "cityKanji": "府中"
+    },
+    {
+        "no": "3510",
+        "cityRomaji": "Miyoshi",
+        "cityKanji": "三次"
+    },
+    {
+        "no": "3511",
+        "cityRomaji": "Syoubara",
+        "cityKanji": "庄原"
+    },
+    {
+        "no": "3512",
+        "cityRomaji": "Otake",
+        "cityKanji": "大竹"
+    },
+    {
+        "no": "3513",
+        "cityRomaji": "Higashihiroshima",
+        "cityKanji": "東広島"
+    },
+    {
+        "no": "3514",
+        "cityRomaji": "Hatsukaichi",
+        "cityKanji": "廿日市"
+    },
+    {
+        "no": "3515",
+        "cityRomaji": "Akitakata",
+        "cityKanji": "安芸高田"
+    },
+    {
+        "no": "3516",
+        "cityRomaji": "Etajima",
+        "cityKanji": "江田島"
+    },
+    {
+        "no": "3601",
+        "cityRomaji": "Takamatsu",
+        "cityKanji": "高松"
+    },
+    {
+        "no": "3602",
+        "cityRomaji": "Marugame",
+        "cityKanji": "丸亀"
+    },
+    {
+        "no": "3603",
+        "cityRomaji": "Sakaide",
+        "cityKanji": "坂出"
+    },
+    {
+        "no": "3604",
+        "cityRomaji": "Zentsuji",
+        "cityKanji": "善通寺"
+    },
+    {
+        "no": "3605",
+        "cityRomaji": "Kan'onji",
+        "cityKanji": "観音寺"
+    },
+    {
+        "no": "3606",
+        "cityRomaji": "Sanuki",
+        "cityKanji": "さぬき"
+    },
+    {
+        "no": "3607",
+        "cityRomaji": "Higashikagawa",
+        "cityKanji": "東かがわ"
+    },
+    {
+        "no": "3608",
+        "cityRomaji": "Mitoyo",
+        "cityKanji": "三豊"
+    },
+    {
+        "no": "3701",
+        "cityRomaji": "Tokushima",
+        "cityKanji": "徳島"
+    },
+    {
+        "no": "3702",
+        "cityRomaji": "Naruto",
+        "cityKanji": "鳴門"
+    },
+    {
+        "no": "3703",
+        "cityRomaji": "Komatsushima",
+        "cityKanji": "小松島"
+    },
+    {
+        "no": "3704",
+        "cityRomaji": "Anan",
+        "cityKanji": "阿南"
+    },
+    {
+        "no": "3705",
+        "cityRomaji": "Yoshinogawa",
+        "cityKanji": "吉野川"
+    },
+    {
+        "no": "3706",
+        "cityRomaji": "Awa",
+        "cityKanji": "阿波"
+    },
+    {
+        "no": "3707",
+        "cityRomaji": "Mima",
+        "cityKanji": "美馬"
+    },
+    {
+        "no": "3708",
+        "cityRomaji": "Miyoshi",
+        "cityKanji": "三好"
+    },
+    {
+        "no": "3801",
+        "cityRomaji": "Matsuyama",
+        "cityKanji": "松山"
+    },
+    {
+        "no": "3802",
+        "cityRomaji": "Imabari",
+        "cityKanji": "今治"
+    },
+    {
+        "no": "3803",
+        "cityRomaji": "Uwajima",
+        "cityKanji": "宇和島"
+    },
+    {
+        "no": "3804",
+        "cityRomaji": "Yawatahama",
+        "cityKanji": "八幡浜"
+    },
+    {
+        "no": "3805",
+        "cityRomaji": "Niihama",
+        "cityKanji": "新居浜"
+    },
+    {
+        "no": "3806",
+        "cityRomaji": "Saijo",
+        "cityKanji": "西条"
+    },
+    {
+        "no": "3807",
+        "cityRomaji": "Ozu",
+        "cityKanji": "大洲"
+    },
+    {
+        "no": "3810",
+        "cityRomaji": "Iyo",
+        "cityKanji": "伊予"
+    },
+    {
+        "no": "3813",
+        "cityRomaji": "Shikokuchuo",
+        "cityKanji": "四国中央"
+    },
+    {
+        "no": "3814",
+        "cityRomaji": "Seiyo",
+        "cityKanji": "西予"
+    },
+    {
+        "no": "3815",
+        "cityRomaji": "Toon",
+        "cityKanji": "東温"
+    },
+    {
+        "no": "3901",
+        "cityRomaji": "Kochi",
+        "cityKanji": "高知"
+    },
+    {
+        "no": "3902",
+        "cityRomaji": "Muroto",
+        "cityKanji": "室戸"
+    },
+    {
+        "no": "3903",
+        "cityRomaji": "Aki",
+        "cityKanji": "安芸"
+    },
+    {
+        "no": "3904",
+        "cityRomaji": "Tosa",
+        "cityKanji": "土佐"
+    },
+    {
+        "no": "3905",
+        "cityRomaji": "Susaki",
+        "cityKanji": "須崎"
+    },
+    {
+        "no": "3907",
+        "cityRomaji": "Sukumo",
+        "cityKanji": "宿毛"
+    },
+    {
+        "no": "3908",
+        "cityRomaji": "Tosashimizu",
+        "cityKanji": "土佐清水"
+    },
+    {
+        "no": "3909",
+        "cityRomaji": "Nankoku",
+        "cityKanji": "南国"
+    },
+    {
+        "no": "3910",
+        "cityRomaji": "Shimanto",
+        "cityKanji": "四万十"
+    },
+    {
+        "no": "3911",
+        "cityRomaji": "Konan",
+        "cityKanji": "香南"
+    },
+    {
+        "no": "3912",
+        "cityRomaji": "Kami",
+        "cityKanji": "香美"
+    },
+    {
+        "no": "4001",
+        "cityRomaji": "Fukuoka",
+        "cityKanji": "福岡"
+    },
+    {
+        "no": "4007",
+        "cityRomaji": "Kurume",
+        "cityKanji": "久留米"
+    },
+    {
+        "no": "4008",
+        "cityRomaji": "Omuta",
+        "cityKanji": "大牟田"
+    },
+    {
+        "no": "4009",
+        "cityRomaji": "Noogata",
+        "cityKanji": "直方"
+    },
+    {
+        "no": "4010",
+        "cityRomaji": "Iizuka",
+        "cityKanji": "飯塚"
+    },
+    {
+        "no": "4011",
+        "cityRomaji": "Tagawa",
+        "cityKanji": "田川"
+    },
+    {
+        "no": "4012",
+        "cityRomaji": "Yanagawa",
+        "cityKanji": "柳川"
+    },
+    {
+        "no": "4015",
+        "cityRomaji": "Yame",
+        "cityKanji": "八女"
+    },
+    {
+        "no": "4016",
+        "cityRomaji": "Chikugo",
+        "cityKanji": "筑後"
+    },
+    {
+        "no": "4017",
+        "cityRomaji": "Okawa",
+        "cityKanji": "大川"
+    },
+    {
+        "no": "4018",
+        "cityRomaji": "Yukuhashi",
+        "cityKanji": "行橋"
+    },
+    {
+        "no": "4019",
+        "cityRomaji": "Buzen",
+        "cityKanji": "豊前"
+    },
+    {
+        "no": "4020",
+        "cityRomaji": "Nakama",
+        "cityKanji": "中間"
+    },
+    {
+        "no": "4021",
+        "cityRomaji": "Kitakyushu",
+        "cityKanji": "北九州"
+    },
+    {
+        "no": "4022",
+        "cityRomaji": "Ogoori",
+        "cityKanji": "小郡"
+    },
+    {
+        "no": "4023",
+        "cityRomaji": "Kasuga",
+        "cityKanji": "春日"
+    },
+    {
+        "no": "4024",
+        "cityRomaji": "Chikushino",
+        "cityKanji": "筑紫野"
+    },
+    {
+        "no": "4025",
+        "cityRomaji": "Onojo",
+        "cityKanji": "大野城"
+    },
+    {
+        "no": "4026",
+        "cityRomaji": "Munakata",
+        "cityKanji": "宗像"
+    },
+    {
+        "no": "4027",
+        "cityRomaji": "Dazaifu",
+        "cityKanji": "太宰府"
+    },
+    {
+        "no": "4029",
+        "cityRomaji": "Koga",
+        "cityKanji": "古賀"
+    },
+    {
+        "no": "4030",
+        "cityRomaji": "Fukutsu",
+        "cityKanji": "福津"
+    },
+    {
+        "no": "4031",
+        "cityRomaji": "Ukiha",
+        "cityKanji": "うきは"
+    },
+    {
+        "no": "4032",
+        "cityRomaji": "Miyawaka",
+        "cityKanji": "宮若"
+    },
+    {
+        "no": "4033",
+        "cityRomaji": "Kama",
+        "cityKanji": "嘉麻"
+    },
+    {
+        "no": "4034",
+        "cityRomaji": "Asakura",
+        "cityKanji": "朝倉"
+    },
+    {
+        "no": "4035",
+        "cityRomaji": "Miyama",
+        "cityKanji": "みやま"
+    },
+    {
+        "no": "4036",
+        "cityRomaji": "Itoshima",
+        "cityKanji": "糸島"
+    },
+    {
+        "no": "4037",
+        "cityRomaji": "nakagawa",
+        "cityKanji": "那珂川"
+    },
+    {
+        "no": "4101",
+        "cityRomaji": "Saga",
+        "cityKanji": "佐賀"
+    },
+    {
+        "no": "4102",
+        "cityRomaji": "Karatsu",
+        "cityKanji": "唐津"
+    },
+    {
+        "no": "4103",
+        "cityRomaji": "Tosu",
+        "cityKanji": "鳥栖"
+    },
+    {
+        "no": "4104",
+        "cityRomaji": "Taku",
+        "cityKanji": "多久"
+    },
+    {
+        "no": "4105",
+        "cityRomaji": "Imari",
+        "cityKanji": "伊万里"
+    },
+    {
+        "no": "4106",
+        "cityRomaji": "Takeo",
+        "cityKanji": "武雄"
+    },
+    {
+        "no": "4107",
+        "cityRomaji": "Kashima",
+        "cityKanji": "鹿島"
+    },
+    {
+        "no": "4108",
+        "cityRomaji": "Ogi",
+        "cityKanji": "小城"
+    },
+    {
+        "no": "4109",
+        "cityRomaji": "Ureshino",
+        "cityKanji": "嬉野"
+    },
+    {
+        "no": "4110",
+        "cityRomaji": "Kanzaki",
+        "cityKanji": "神埼"
+    },
+    {
+        "no": "4201",
+        "cityRomaji": "Nagasaki",
+        "cityKanji": "長崎"
+    },
+    {
+        "no": "4202",
+        "cityRomaji": "Sasebo",
+        "cityKanji": "佐世保"
+    },
+    {
+        "no": "4203",
+        "cityRomaji": "Shimabara",
+        "cityKanji": "島原"
+    },
+    {
+        "no": "4204",
+        "cityRomaji": "Isahaya",
+        "cityKanji": "諫早"
+    },
+    {
+        "no": "4205",
+        "cityRomaji": "Omura",
+        "cityKanji": "大村"
+    },
+    {
+        "no": "4207",
+        "cityRomaji": "Hirado",
+        "cityKanji": "平戸"
+    },
+    {
+        "no": "4208",
+        "cityRomaji": "Matsuura",
+        "cityKanji": "松浦"
+    },
+    {
+        "no": "4209",
+        "cityRomaji": "Tsushima",
+        "cityKanji": "対馬"
+    },
+    {
+        "no": "4210",
+        "cityRomaji": "Iki",
+        "cityKanji": "壱岐"
+    },
+    {
+        "no": "4211",
+        "cityRomaji": "Goto",
+        "cityKanji": "五島"
+    },
+    {
+        "no": "4212",
+        "cityRomaji": "Saikai",
+        "cityKanji": "西海"
+    },
+    {
+        "no": "4213",
+        "cityRomaji": "Unzen",
+        "cityKanji": "雲仙"
+    },
+    {
+        "no": "4214",
+        "cityRomaji": "Minamishimabara",
+        "cityKanji": "南島原"
+    },
+    {
+        "no": "4301",
+        "cityRomaji": "Kumamoto",
+        "cityKanji": "熊本"
+    },
+    {
+        "no": "4302",
+        "cityRomaji": "Yatsushiro",
+        "cityKanji": "八代"
+    },
+    {
+        "no": "4303",
+        "cityRomaji": "Hitoyoshi",
+        "cityKanji": "人吉"
+    },
+    {
+        "no": "4304",
+        "cityRomaji": "Arao",
+        "cityKanji": "荒尾"
+    },
+    {
+        "no": "4305",
+        "cityRomaji": "Minamata",
+        "cityKanji": "水俣"
+    },
+    {
+        "no": "4306",
+        "cityRomaji": "Tamana",
+        "cityKanji": "玉名"
+    },
+    {
+        "no": "4308",
+        "cityRomaji": "Yamaga",
+        "cityKanji": "山鹿"
+    },
+    {
+        "no": "4310",
+        "cityRomaji": "Kikuchi",
+        "cityKanji": "菊池"
+    },
+    {
+        "no": "4311",
+        "cityRomaji": "Uto",
+        "cityKanji": "宇土"
+    },
+    {
+        "no": "4312",
+        "cityRomaji": "Kamiamakusa",
+        "cityKanji": "上天草"
+    },
+    {
+        "no": "4313",
+        "cityRomaji": "Uki",
+        "cityKanji": "宇城"
+    },
+    {
+        "no": "4314",
+        "cityRomaji": "Aso",
+        "cityKanji": "阿蘇"
+    },
+    {
+        "no": "4315",
+        "cityRomaji": "Amakusa",
+        "cityKanji": "天草"
+    },
+    {
+        "no": "4316",
+        "cityRomaji": "Koshi",
+        "cityKanji": "合志"
+    },
+    {
+        "no": "4401",
+        "cityRomaji": "Oita",
+        "cityKanji": "大分"
+    },
+    {
+        "no": "4402",
+        "cityRomaji": "Beppu",
+        "cityKanji": "別府"
+    },
+    {
+        "no": "4403",
+        "cityRomaji": "Nakatsu",
+        "cityKanji": "中津"
+    },
+    {
+        "no": "4404",
+        "cityRomaji": "Hita",
+        "cityKanji": "日田"
+    },
+    {
+        "no": "4405",
+        "cityRomaji": "Saiki",
+        "cityKanji": "佐伯"
+    },
+    {
+        "no": "4406",
+        "cityRomaji": "Usuki",
+        "cityKanji": "臼杵"
+    },
+    {
+        "no": "4407",
+        "cityRomaji": "Tsukumi",
+        "cityKanji": "津久見"
+    },
+    {
+        "no": "4408",
+        "cityRomaji": "Taketa",
+        "cityKanji": "竹田"
+    },
+    {
+        "no": "4410",
+        "cityRomaji": "Bungotakada",
+        "cityKanji": "豊後高田"
+    },
+    {
+        "no": "4411",
+        "cityRomaji": "Kitsuki",
+        "cityKanji": "杵築"
+    },
+    {
+        "no": "4412",
+        "cityRomaji": "Usa",
+        "cityKanji": "宇佐"
+    },
+    {
+        "no": "4413",
+        "cityRomaji": "Bungoono",
+        "cityKanji": "豊後大野"
+    },
+    {
+        "no": "4414",
+        "cityRomaji": "Yufu",
+        "cityKanji": "由布"
+    },
+    {
+        "no": "4415",
+        "cityRomaji": "Kunisaki",
+        "cityKanji": "国東"
+    },
+    {
+        "no": "4501",
+        "cityRomaji": "Miyazaki",
+        "cityKanji": "宮崎"
+    },
+    {
+        "no": "4502",
+        "cityRomaji": "Miyakonojo",
+        "cityKanji": "都城"
+    },
+    {
+        "no": "4503",
+        "cityRomaji": "Nobeoka",
+        "cityKanji": "延岡"
+    },
+    {
+        "no": "4504",
+        "cityRomaji": "Nichinan",
+        "cityKanji": "日南"
+    },
+    {
+        "no": "4505",
+        "cityRomaji": "Kobayashi",
+        "cityKanji": "小林"
+    },
+    {
+        "no": "4506",
+        "cityRomaji": "Hyuga",
+        "cityKanji": "日向"
+    },
+    {
+        "no": "4507",
+        "cityRomaji": "Kushima",
+        "cityKanji": "串間"
+    },
+    {
+        "no": "4508",
+        "cityRomaji": "Saito",
+        "cityKanji": "西都"
+    },
+    {
+        "no": "4509",
+        "cityRomaji": "Ebino",
+        "cityKanji": "えびの"
+    },
+    {
+        "no": "4601",
+        "cityRomaji": "Kagoshima",
+        "cityKanji": "鹿児島"
+    },
+    {
+        "no": "4603",
+        "cityRomaji": "Kanoya",
+        "cityKanji": "鹿屋"
+    },
+    {
+        "no": "4604",
+        "cityRomaji": "Makurazaki",
+        "cityKanji": "枕崎"
+    },
+    {
+        "no": "4606",
+        "cityRomaji": "Akune",
+        "cityKanji": "阿久根"
+    },
+    {
+        "no": "4607",
+        "cityRomaji": "Izumi",
+        "cityKanji": "出水"
+    },
+    {
+        "no": "4610",
+        "cityRomaji": "Ibusuki",
+        "cityKanji": "指宿"
+    },
+    {
+        "no": "4614",
+        "cityRomaji": "Nishinoomote",
+        "cityKanji": "西之表"
+    },
+    {
+        "no": "4615",
+        "cityRomaji": "Tarumizu",
+        "cityKanji": "垂水"
+    },
+    {
+        "no": "4616",
+        "cityRomaji": "Satsumasendai",
+        "cityKanji": "薩摩川内"
+    },
+    {
+        "no": "4617",
+        "cityRomaji": "Hioki",
+        "cityKanji": "日置"
+    },
+    {
+        "no": "4618",
+        "cityRomaji": "Soo",
+        "cityKanji": "曽於"
+    },
+    {
+        "no": "4619",
+        "cityRomaji": "Kirishima",
+        "cityKanji": "霧島"
+    },
+    {
+        "no": "4620",
+        "cityRomaji": "Ichikikushikino",
+        "cityKanji": "いちき串木野"
+    },
+    {
+        "no": "4621",
+        "cityRomaji": "Minamisatsuma",
+        "cityKanji": "南さつま"
+    },
+    {
+        "no": "4622",
+        "cityRomaji": "Shibushi",
+        "cityKanji": "志布志"
+    },
+    {
+        "no": "4623",
+        "cityRomaji": "Amami",
+        "cityKanji": "奄美"
+    },
+    {
+        "no": "4624",
+        "cityRomaji": "Minamikyushu",
+        "cityKanji": "南九州"
+    },
+    {
+        "no": "4625",
+        "cityRomaji": "Isa",
+        "cityKanji": "伊佐"
+    },
+    {
+        "no": "4626",
+        "cityRomaji": "Aira",
+        "cityKanji": "姶良"
+    },
+    {
+        "no": "4701",
+        "cityRomaji": "Naha",
+        "cityKanji": "那覇"
+    },
+    {
+        "no": "4704",
+        "cityRomaji": "Ishigaki",
+        "cityKanji": "石垣"
+    },
+    {
+        "no": "4706",
+        "cityRomaji": "Ginowan",
+        "cityKanji": "宜野湾"
+    },
+    {
+        "no": "4708",
+        "cityRomaji": "Nago",
+        "cityKanji": "名護"
+    },
+    {
+        "no": "4709",
+        "cityRomaji": "Urasoe",
+        "cityKanji": "浦添"
+    },
+    {
+        "no": "4710",
+        "cityRomaji": "Itoman",
+        "cityKanji": "糸満"
+    },
+    {
+        "no": "4711",
+        "cityRomaji": "Okinawa",
+        "cityKanji": "沖縄"
+    },
+    {
+        "no": "4712",
+        "cityRomaji": "Tomigusuku",
+        "cityKanji": "豊見城"
+    },
+    {
+        "no": "4713",
+        "cityRomaji": "Uruma",
+        "cityKanji": "うるま"
+    },
+    {
+        "no": "4714",
+        "cityRomaji": "Miyakojima",
+        "cityKanji": "宮古島"
+    },
+    {
+        "no": "4715",
+        "cityRomaji": "Nanjo",
+        "cityKanji": "南城"
+    }
+]

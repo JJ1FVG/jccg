@@ -1,0 +1,30 @@
+body {
+    overflow-x: hidden;
+}
+nav{
+  background-color:#e3f2fd;
+}
+th,
+td {
+    width: 20%;
+}
+.card{
+  width:100vw;
+}
+#scroll {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 80vh;
+}
+#notice2{
+  display: none;
+}
+#map{
+  width:100vw;
+  height:70vh;
+  display: none;
+}
+#result{
+  height: 20vh;
+  display: none;
+}

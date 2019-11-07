@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>JCC/JCG Search</title>
+    <!-- Vue.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.min.js"></script>
+    <!-- Bootstrap css CDN-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- main.css　-->
+    <link rel="stylesheet" href="../css/main.css">
+    <!-- viewport -->
+    <meta name="viewport" content="initial-scale=1.0">
+    <style>
+      #result{
+        display: block;
+      }
+    </style>
+</head>
+
+<body>
+    <!-- ナビゲーションバー -->
+    <nav class="navbar navbar-light navbar-expand-sm">
+        <a><strong>🗾JCC/JCG Search　　</strong></a>
+        <button class="navbar-toggler" type="button"
+            data-toggle="collapse"
+            data-target="#navmenu1"
+            aria-controls="navmenu1"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navmenu1">
+            <div class="navbar-nav">
+                <a class="nav-item nav-link active" href="../search/">キーワード検索</a>
+                <a class="nav-item nav-link" href="../map/">地図検索</a>
+                <a class="nav-item nav-link" href="../about/">このサイトについて</a>
+            </div>
+        </div>
+    </nav>
+    </div>
+    <!-- 検索窓 -->
+    <div id="search">
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="serchBoxTitle">🔎</span>
+            </div>
+            <input v-model="search" type="text" class="form-control" name="serchBox" id="serchBox" placeholder="JCC/JCG or 市郡区名" aria-describedby="serchBoxTitle">
+        </div>
+    </div>
+    <!-- 検索結果 -->
+    <div id="container">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th width="30%">JCC/JCG</th>
+                    <th width="30%">市郡区名</th>
+                </tr>
+            </thead>
+        </table>
+        <div id="scroll">
+            <div id="result">
+                <div v-html="text"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 日本語文字変換ライブラリ (javascript) -->
+    <script src="../jaconv-master/lib/jaconv.min.js"></script>
+    <!-- search.js-->
+    <script type="text/javascript" src="../js/search.js"></script>
+    <script type="text/javascript">
+        //ページ読み込み時の処理
+        window.onload = () => {
+            //jsonファイル名
+            let jsonFileName = '../json/data.json';
+            //jsonファイルの取得
+            let json = fetchJson(jsonFileName);
+        };
+
+        //Vue search
+        var search = new Vue({
+            el: '#search',
+            data: {
+                search: ''
+            },
+            watch: {
+                search: function() {
+                    showTable(json, this.search);
+                }
+            }
+        });
+
+        //Vue result
+        var result = new Vue({
+            el: '#result',
+            data: {
+                text: ''
+            }
+        });
+    </script>
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.js CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <!-- Bootstrap js CDN-->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+</html>
