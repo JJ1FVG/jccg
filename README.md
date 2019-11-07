@@ -1,5 +1,4 @@
-# jccg
-JCC/JCG Search
+# JCC/JCG Search
 このサイトについて
 このサイトは、アマチュア無線において日本国内の市区を表すJCC及び郡を表すJCGを検索するサイトです。
 
